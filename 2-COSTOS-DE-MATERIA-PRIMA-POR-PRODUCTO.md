@@ -67,14 +67,12 @@
 
 | Ingrediente | Cantidad | Precio Unitario | Costo |
 |---|---|---|---|
-| Chocolate en polvo | 25 g | *A confirmar* | *Pendiente* |
+| Cocoa en polvo Hershey's | 25 g | $0.645/g | $0.16 |
 | Leche | 250 ml | $0.027/ml | $6.75 |
 | Canela (opcional) | 0.2 g | $0.021/g | $0.004 |
 | Vaso 12 oz (BIOFORM) | 1 | $1.47 | $1.47 |
 | Tapa | 1 | $1.35 | $1.35 |
-| **SUBTOTAL CHOCOLATE** | | | **~$11.56*** |
-
-*Pendiente confirmar precio del chocolate en polvo
+| **SUBTOTAL CHOCOLATE** | | | **$10.66** |
 
 ---
 
@@ -111,11 +109,9 @@
 | Latte | $10.61 |
 | Capuchino | $9.54 |
 | Flat White | $8.43 |
-| Chocolate Caliente | ~$11.56* |
+| Chocolate Caliente | $10.66 |
 | Té Caliente | $4.94 |
 | Té Chai | $23.22 |
-
-*Chocolate: Pendiente confirmar precio del chocolate en polvo
 
 ---
 
@@ -124,4 +120,4 @@
 - **Ingredientes opcionales (azúcar, edulcorante, canela):** Se contabilizan como costo adicional solamente cuando el cliente los solicita explícitamente. El costo es negligible (~$0.01 por sobre de edulcorante)
 - **Vaso utilizado:** BIOFORM 12 oz para la mayoría de bebidas (opción más económica). Se puede usar Vines ($2.75) para un modelo más premium si lo deseas
 - **Espresso Sencillo:** Utiliza vaso de 8 oz con tapa integrada (más caro unitariamente pero es su formato estándar)
-- **Chocolate:** Requiere información del precio unitario del chocolate en polvo para cálculo final
+- **Chocolate:** Se utiliza Cocoa en polvo Hershey's ($129 por 200g = $0.645/g) - opción más económica que el chocolate con almendra

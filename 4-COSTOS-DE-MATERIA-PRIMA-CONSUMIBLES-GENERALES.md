@@ -10,7 +10,8 @@
 | Leche Lala | Cartón | 12 L | $322 | $26.83 | por litro |
 | Té Negro Members Mark | Polvo | 560 g | $276 | $492.86 | por kg |
 | Té Chai David Rio | Jarabe/Concentrado | 1.8 kg | $900 | $500.00 | por kg |
-| Chocolate en Polvo | - | - | - | *A confirmar* | - |
+| Dark Chocolate con Almendra Members Mark | Bolsa | 567 g | $204 | $0.36 | por g |
+| Cocoa en Polvo Hershey's | Bolsa | 200 g | $129 | $0.645 | por g |
 | Azúcar | Bolsa | 4 kg | $102 | $25.50 | por kg |
 | Canela en Polvo | Bolsa | 60 g | $21 | $350.00 | por kg |
 | Edulcorante (sobres) | Caja | 400 sobres | $204 | $0.51 | por sobre |
@@ -36,7 +37,7 @@
 - **Leche:** Se considera por litro para facilitar cálculos
 - **Vasos:** Se tienen dos opciones de vasos de 12 oz (BIOFORM más económico, Vines más premium)
 - **Té Negro:** Se vende en polvo, aproximadamente 2g por infusión
-- **Chocolate:** Precio aún por confirmar
+- **Chocolate:** Se ofrecen dos opciones - Dark Chocolate con Almendra (más premium, $0.36/g) y Cocoa en Polvo Hershey's (más económico, $0.645/g)
 - **Edulcorante:** Se proporciona por sobre, incluido en pedidos del cliente
 - **Tapas:** Se compran por separado de vasos de 12 oz; vasos de 8 oz incluyen tapa integrada
 
@@ -47,6 +48,8 @@
 - Café: $0.31 por 10g
 - Leche: $0.027 por ml
 - Té Negro: $0.99 por 2g
+- Dark Chocolate con Almendra: $0.36 por g (25g = $9.00)
+- Cocoa Hershey's: $0.645 por g (25g = $0.16)
 - Canela: $0.021 por 0.3g
 - Servilleta: $1.13
 - Agitador: $0.16
