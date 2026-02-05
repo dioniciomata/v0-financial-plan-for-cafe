@@ -84,7 +84,17 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 
 ---
 
-## G) Inventario Inicial
+## G) Seguridad y Vigilancia
+
+| Item | Cantidad | Costo Unitario | Costo Total |
+|---|---|---|---|
+| Sistema de cámaras de seguridad | 1 | $4,000 | $4,000 |
+| Instalación personal | 1 | - | - |
+| **SUBTOTAL SEGURIDAD Y VIGILANCIA** | | | **$4,000** |
+
+---
+
+## H) Inventario Inicial
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
@@ -106,6 +116,7 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 | Zona de Preparación | |
 | Sistema POS | |
 | Trámites, Permisos y Legales | |
+| Seguridad y Vigilancia | $4,000 |
 | Inventario Inicial | |
 | **TOTAL INVERSIÓN INICIAL** | |
 
