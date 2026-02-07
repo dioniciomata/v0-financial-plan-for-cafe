@@ -1,82 +1,106 @@
-🗣️ Guion sugerido para preguntar de forma orgánica
-1️⃣ Apertura / Contexto
+# Guion de preguntas para evaluación de local (cafetería)
 
-Empieza marcando intención. Esto hace que el asesor entienda por qué preguntas tanto (y filtra rápido si el local no sirve).
+## 1. Apertura / Contexto
 
-“El local me interesa para poner una cafetería y preparar alimentos, así que quiero asegurarme de que cumple con lo necesario. ¿Te parece si te hago unas preguntas?”
+> El local me interesa para poner una **cafetería** y preparar alimentos,  
+> así que quiero asegurarme de que cumple con lo necesario.  
+> ¿Te parece si te hago unas preguntas?
 
-2️⃣ Ubicación y características generales
+---
 
-Primero lo “visible”, lo ligero.
+## 2. Ubicación y características generales
 
-“Para empezar, ¿me puedes confirmar la ubicación exacta del local? ¿En qué calle está y qué referencias tiene cerca?”
-“¿De cuántos metros cuadrados es el local?”
-“¿Tiene una o varias entradas/salidas?”
-“¿Está pensado para tener clientes dentro o más bien es solo mostrador?”
-“¿Cómo es la altura del techo? ¿Es alto o bajo?”
+- ¿Me puedes confirmar la **ubicación exacta** del local?  
+  (calle, zona y referencias cercanas)
+- ¿De cuántos **metros cuadrados** es el local?
+- ¿Cuántas **entradas y salidas** tiene?
+- ¿El espacio está pensado para **clientes dentro** o solo mostrador?
+- ¿Cómo es la **altura del techo**? (alto / bajo)
 
-3️⃣ Servicios e infraestructura (clave para cafetería)
+---
 
-Aquí ya entras a lo técnico, pero con lógica.
+## 3. Servicios e infraestructura (clave para cafetería)
 
-“Como sería cafetería con preparación, quería saber qué servicios ya tiene instalados el local.”
-“¿Cuenta con agua, luz y gas funcionando?”
-“¿Tiene salida de agua y gas ya instaladas?”
-“¿Tiene drenaje/albañal adecuado?”
-“¿Sabes qué capacidad tiene el servicio eléctrico? ¿Cuántos amperes o si es monofásico/trifásico?”
-“¿Hay espacio en la azotea o parte superior para instalar extractor o campana?”
+> Como sería cafetería con preparación de alimentos,  
+> quiero validar los servicios e instalaciones.
 
-💡 Aquí muchos locales se caen solos.
+- ¿Qué **servicios** ya tiene el local? (agua, luz, gas, internet)
+- ¿Cuenta con **salidas de agua y gas** ya instaladas?
+- ¿Tiene **sistema de drenaje / albañal** adecuado?
+- ¿Qué **capacidad tiene el servicio eléctrico**?
+  - ¿Cuántos **amperes**?
+  - ¿Es **monofásico o trifásico**?
+  - ¿127 V o 220 V?
+- ¿Hay espacio en la **azotea o parte superior** para extractor o campana?
 
-4️⃣ Parte legal y administrativa
+---
 
-Ahora que sabes si “funciona físicamente”, preguntas si funciona legalmente.
+## 4. Aspectos legales y administrativos
 
-“En tema legal, ¿el local permite actividad comercial como cafetería?”
-“¿Cuál es el uso de suelo actual que tiene el inmueble?”
-“¿Se necesita licencia de funcionamiento o cambio de uso?”
-“En caso de cambio, ¿quién lo tramita normalmente, el dueño o el inquilino?”
-“¿Hay alguna restricción de horarios?”
-“¿Se permiten modificaciones al local, como extractor, adecuaciones o remodelación?”
-“¿Piden póliza de seguro?”
+- ¿El local **permite actividad comercial**, específicamente cafetería?
+- ¿Cuál es el **uso de suelo** actual en la escritura?
+- ¿Se requiere **licencia de funcionamiento** o cambio de uso?
+- En caso de cambio, ¿quién lo **tramita**?
+  - ¿Propietario o inquilino?
+- ¿Existen **restricciones de horario**?
+- ¿Se permiten **modificaciones al local**?
+  - (extractor, remodelación, adecuaciones)
+- ¿Se solicita **póliza de seguro**?
 
-5️⃣ Condiciones económicas
+---
 
-Ya con el interés claro, pasas al dinero.
+## 5. Condiciones económicas
 
-“Ahora, en cuanto a condiciones…”
-“¿Cuál es la renta mensual?”
-“¿Qué tipo de contrato manejan y por cuánto tiempo?”
-“¿Se pide depósito, y de cuántos meses?”
-“¿Hay comisión de inmobiliaria y quién la cubre?”
-“¿El predial está incluido o se paga aparte?”
-“¿Hay cuotas de mantenimiento o gastos comunes?”
-“¿Tienes una idea de cuánto se paga normalmente de agua y luz?”
+- ¿Cuál es la **renta mensual**?
+- ¿Qué tipo de **contrato** se maneja?
+  - 6 meses / 1 año / 2 años
+- ¿Se solicita **depósito**?
+  - ¿De cuántos meses?
+- ¿Hay **comisión de inmobiliaria**?
+  - ¿Quién la paga?
+- ¿El **predial** está incluido o se paga aparte?
+- ¿Hay **cuotas de mantenimiento** o gastos comunes?
+- ¿Tienes un estimado del **costo mensual de agua y luz**?
 
-6️⃣ Términos y flexibilidad
+---
 
-Esto te da poder de negociación.
+## 6. Términos y flexibilidad del contrato
 
-“¿Cuánto tiempo tengo para tomar una decisión?”
-“¿La renta es negociable?”
-“¿Cuándo estaría disponible el local?”
-“Si en algún momento necesito salir, ¿hay preaviso?”
-“¿Se permite subarrendar?”
-“¿Cuáles son las penalizaciones por terminar el contrato antes?”
+- ¿Cuánto tiempo tengo para **tomar una decisión**?
+- ¿La **renta es negociable**?
+- ¿A partir de cuándo está **disponible** el local?
+- En caso de salir, ¿cuál es el **plazo de preaviso**?
+- ¿Se permite **subarrendar**?
+- ¿Cuáles son las **penalizaciones por terminar el contrato antes**?
 
-7️⃣ Viabilidad del negocio (zona)
+---
 
-Cierras evaluando si el lugar vale la pena.
+## 7. Validación de viabilidad del negocio
 
-“Ya por último, para evaluar la zona…”
-“¿Cómo es el flujo de peatones normalmente?”
-“¿Qué negocios hay alrededor?”
-“¿Hay estacionamiento cercano?”
-“¿Es zona de bares o ruido nocturno?”
-“¿Hay muchas cafeterías cerca?”
+- ¿Cómo es el **flujo de peatones** en la zona?
+- ¿Qué **negocios** hay alrededor?
+- ¿Hay **estacionamiento** cercano?
+  - ¿Propio o público?
+- ¿Es zona de **bares o ruido nocturno**?
+- ¿Hay **competencia directa** de cafeterías cercanas?
 
-8️⃣ Cierre elegante
+---
 
-Dejas buena impresión y puertas abiertas.
+## 8. Cierre
 
-“Perfecto, con esto puedo comparar opciones. Muchas gracias, te aviso en cuanto tome decisión.”
+> Perfecto, con esta información puedo comparar opciones  
+> y tomar una decisión. Muchas gracias.
+
+---
+
+## 9. Tabla para comparación de locales
+
+| Aspecto | Local 1 | Local 2 | Local 3 |
+|------|------|------|------|
+| Ubicación |  |  |  |
+| Tamaño (m²) |  |  |  |
+| Renta mensual |  |  |  |
+| Servicios incluidos |  |  |  |
+| Capacidad eléctrica |  |  |  |
+| Restricciones legales |  |  |  |
+| Viabilidad (1–10) |  |  |  |
