@@ -61,7 +61,7 @@
 
 ## RECOMENDACIÓN
 
-Te sugiero **crear un documento** llamado "EVALUACION-LOCALES-EN-RENTA.md" donde registres las respuestas de cada local para poder compararlos. Así podrás documentar:
+Te sugiero registres las respuestas de cada local para poder compararlos. Así podrás documentar:
 
 | Aspecto | Local 1 | Local 2 | Local 3
 |-----|-----|-----|-----
