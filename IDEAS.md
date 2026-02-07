@@ -165,6 +165,143 @@ Para crear un polvo listo para usar, los ingredientes a moler serían:
 
 ---
 
+---
+
+## IDEA 2: CHICHA VENEZOLANA (Bebida de Maíz Fermentado)
+
+### Descripción de la Idea
+
+Introducir la **chicha venezolana** como bebida única y diferenciada. Propuesta inicial: preparar con **polvo de chicha para ver aceptación del cliente**, y si es exitosa, evolucionar hacia preparación con chicha natural fermentada.
+
+### Características
+- Bebida tradicional venezolana hecha a base de maíz
+- Sabor dulce y ligeramente fermentado
+- Disponible en sabores: vainilla, canela, cacao
+- Potencial de diferenciación alta en mercado tapatío
+
+### Estrategia de Implementación
+1. **Fase 1:** Usar polvo de chicha comercial para probar aceptación
+2. **Fase 2:** Si tiene buena acogida, estudiar preparación casera con maíz fermentado natural
+
+### Costos
+*Costos a confirmar posteriormente*
+
+### Próximos Pasos
+- [ ] Cotizar precios de polvo de chicha comercial
+- [ ] Probar con clientes potenciales
+- [ ] Definir precio de venta según mercado local
+- [ ] Si es viable, investigar proveedores de ingredientes para chicha natural
+
+---
+
+## IDEA 3: MATTE ARGENTINO (Té Herbal Tradicional)
+
+### Descripción de la Idea
+
+Ofrecer **matte argentino** como bebida premium y exótica. Esta bebida no es común en cafeterías de Guadalajara, lo que representa una oportunidad de diferenciación importante.
+
+### Características
+- Bebida tradicional argentina hecha con yerba mate
+- Servida en taza con bombilla (pajilla especial)
+- Sabor herbáceo y estimulante (contiene cafeína)
+- Propiedades energizantes naturales
+- Alto potencial de diferenciación
+
+### Propuesta de Valor
+- Producto único y poco común en Guadalajara
+- Atracción de clientes que buscan experiencias diferentes
+- Margen potencialmente alto por novedad
+- Posicionamiento como "bebida auténtica argentina"
+
+### Costos
+*Costos a confirmar posteriormente*
+
+### Próximos Pasos
+- [ ] Cotizar precios de yerba mate de calidad
+- [ ] Comprar bombillas (pajillas especiales)
+- [ ] Investigar proveedores confiables locales
+- [ ] Definir precio de venta
+- [ ] Entrenar staff sobre la presentación correcta
+
+---
+
+## IDEA 4: MALTEADAS (Milkshakes Cremosas)
+
+### Descripción de la Idea
+
+Expandir la oferta con **malteadas/milkshakes** utilizando ingredientes de bajo costo de **Sams Club** (leche, helado, aditivos de sabor).
+
+### Características
+- Bebidas frías y cremosas combinando leche e helado
+- Múltiples sabores disponibles (vainilla, fresa, chocolate, etc.)
+- Ingredientes de bajo costo ➜ **margen alto**
+- Atractivas para clientes que buscan algo más indulgente
+- Opción complementaria a bebidas calientes
+
+### Ingredientes Base
+- Leche (Sams Club)
+- Helado (múltiples sabores)
+- Aditivos de sabor (Sams Club)
+- Whipped cream (opcional para premium)
+
+### Costos
+*Costos a confirmar posteriormente*
+
+### Próximos Pasos
+- [ ] Cotizar precios en Sams Club (leche, helado, aditivos)
+- [ ] Probar recetas y proporciones
+- [ ] Definir tamaños y precios
+- [ ] Evaluar espacio de almacenamiento para helado
+- [ ] Entrenar staff en preparación
+
+---
+
+## IDEA 5: SMOOTHIES DE FRUTA CONGELADA (Bebidas Saludables)
+
+### Descripción de la Idea
+
+Ofrecer **smoothies frescos** preparados con **fruta congelada de bajo costo**. Propuesta: fruta de bajo costo + licuadora = bebida saludable con **margen de ganancia alto**.
+
+### Características
+- Bebidas saludables y nutritivas
+- Base de fruta congelada (económica y fácil de almacenar)
+- Opción fresca y diferenciada del menú actual
+- Apela a clientes conscientes de salud
+- Preparación rápida en licuadora
+
+### Opciones de Sabores Propuestos
+- Fresas + Plátano + Leche
+- Mango + Piña + Leche
+- Moras mixtas + Yogurt
+- Manzana + Canela + Leche
+- Piña + Coco + Leche
+
+### Ingredientes Base
+- Fruta congelada (múltiples variedades, bajo costo)
+- Leche o bebida vegetal
+- Yogurt (opcional)
+- Edulcorante (opcional)
+- Hielo
+
+### Costos
+*Costos a confirmar posteriormente*
+
+### Ventajas
+✓ Fruta congelada = bajo costo + larga durabilidad  
+✓ Preparación rápida (2-3 minutos)  
+✓ Margen potencialmente alto  
+✓ Posicionamiento "saludable"  
+✓ Atrae clientes diferentes (fitnes, salud consciente)  
+
+### Próximos Pasos
+- [ ] Cotizar precios de fruta congelada en mercados locales
+- [ ] Probar combinaciones de sabores
+- [ ] Definir tamaños y precios
+- [ ] Asegurar espacio congelador disponible
+- [ ] Crear fichas técnicas de preparación para staff
+
+---
+
 ## Ideas Adicionales (Pendientes de Desarrollo)
 
 - Bebidas con leche no láctea (almendra, avena, coco)
