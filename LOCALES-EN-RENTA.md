@@ -4,8 +4,6 @@
 
 - ¿Cuál es la ubicación exacta del local? (zona, calle, cerca de qué referencias)
 - ¿Cuál es el tamaño del local en metros cuadrados?
-- ¿Cuántas entradas/salidas tiene?
-- ¿Tiene área para clientes dentro o solo mostrador?
 - ¿Cuál es la altura del local (techos altos/bajos)?
 
 
@@ -13,9 +11,11 @@
 
 - ¿Qué servicios vienen incluidos? (agua, luz, gas, internet)
 - ¿El local tiene salida de agua y gas instaladas?
-- ¿Qué capacidad tiene el servicio eléctrico? (¿amperes disponibles?)
-- ¿Tiene sistema de drenaje/albañal?
+- ¿Tiene sistema de drenaje/albañal y bano?
+- ¿Tiene lavatrastes y barra para preparar alimentos o cocina?
 - ¿Hay espacio en la azotea para extractores/campana?
+- ¿Qué capacidad tiene el servicio eléctrico? (¿amperes disponibles?)
+
 
 
 ## PREGUNTAS FINANCIERAS
@@ -23,7 +23,6 @@
 - ¿Cuál es la renta mensual?
 - ¿Qué tipo de contrato ofrece? (6 meses, 1 año, 2 años)
 - ¿Se requiere depósito de garantía? (¿cuántos meses?)
-- ¿Hay comisión de agente inmobiliario? (¿quién la paga?)
 - ¿Está incluido el predial en la renta o lo pago aparte?
 - ¿Hay gastos de mantenimiento del edificio o áreas comunes?
 - ¿Cuál es el costo del agua y luz aproximadamente?
@@ -61,7 +60,7 @@
 
 ## RECOMENDACIÓN
 
-Te sugiero **crear un documento** llamado "EVALUACION-LOCALES-EN-RENTA.md" donde registres las respuestas de cada local para poder compararlos. Así podrás documentar:
+Te sugiero registres las respuestas de cada local para poder compararlos. Así podrás documentar:
 
 | Aspecto | Local 1 | Local 2 | Local 3
 |-----|-----|-----|-----
