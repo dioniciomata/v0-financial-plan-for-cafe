@@ -11,7 +11,7 @@
 
 ### Tamaño del local
 - Metros cuadrados: **104** m²
-- Distribución: [describe si es cuadrado, rectangular, alargado, etc.]
+- Distribución: 2 medios banos y un bano completo
 
 ### Accesos y distribución
 - Descripción del espacio: [observaciones]
@@ -73,8 +73,8 @@
 ## 4. CONDICIONES ECONÓMICAS
 
 ### Renta
-- **Renta mensual:** $[  ]
-- **¿Es negociable?:** Sí / No
+- **Renta mensual:** $30000
+- **¿Es negociable?:** No se
 - **Precio recomendado a ofrecer:** $[  ]
 
 ### Contrato y garantía
@@ -88,9 +88,9 @@
 |---|---|---|
 | Predial | Sí / No | $[  ] |
 | Cuotas de mantenimiento | Sí / No | $[  ] |
-| Agua | Sí / No | $[  ] |
-| Luz | Sí / No | $[  ] |
-| Gas | Sí / No | $[  ] |
+| Agua | Sí | $[  ] |
+| Luz | Sí  | $[  ] |
+| Gas | No | $[  ] |
 
 **Total de gastos mensuales (renta + extras):** $[  ]
 
