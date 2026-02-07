@@ -1,21 +1,16 @@
 # EVALUACIÓN DE LOCAL EN RENTA - CAFETERÍA
 
-**Fecha de evaluación:** [COMPLETA LA FECHA]  
-**Contacto:** [NOMBRE DEL DUEÑO/AGENTE]  
-**Teléfono:** [NÚMERO]  
-**Disponibilidad del local:** [FECHA]  
-2 banos
-1 bano completo
-internet elec agua 
-30mil
-ac nuevo
-ERIC LOPEZ
+- **Fecha de evaluación:** 2/7/2026
+- **Contacto:** ERIC LOPEZ 
+- **Teléfono:** 3317284598
+- **Disponibilidad del local:** Llamar a Eric para hacer cita para ver el local 
+
 ---
 
 ## 1. UBICACIÓN Y CARACTERÍSTICAS GENERALES
 
 ### Tamaño del local
-- Metros cuadrados: **[  ]** m²
+- Metros cuadrados: **104** m²
 - Distribución: [describe si es cuadrado, rectangular, alargado, etc.]
 
 ### Accesos y distribución
@@ -28,10 +23,11 @@ ERIC LOPEZ
 ### Servicios disponibles
 | Servicio | ¿Disponible? | Notas |
 |---|---|---|
-| Agua | Sí / No | |
-| Luz/Electricidad | Sí / No | |
+| Agua | Sí | Inluida |
+| Luz/Electricidad | Sí | Incluida |
+| Aire Acondicionado | Sí | Incluida |
 | Gas | Sí / No | |
-| Internet | Sí / No | |
+| Internet | Sí | Incluido? |
 | Bano | Sí / No | |
 
 ### Electricidad (crucial para equipos)
@@ -42,8 +38,8 @@ ERIC LOPEZ
 
 ### Gas y agua
 - **¿Salidas de gas instaladas?:** Sí / No
-- **¿Salidas de agua?:** Sí / No
-- **¿Sistema de drenaje adecuado?:** Sí / No
+- **¿Salidas de agua?:** Sí
+- **¿Sistema de drenaje adecuado?:** Sí
 
 ### Extracción y ventilación
 - **¿Hay espacio en azotea para extractor/campana?:** Sí / No
@@ -55,10 +51,10 @@ ERIC LOPEZ
 ## 3. ASPECTOS LEGALES Y ADMINISTRATIVOS
 
 ### Uso de suelo y permisos
-- **¿Permite actividad comercial (cafetería)?:** Sí / No
-- **Uso de suelo en escritura:** [Comercial / Mixto / Otro]
-- **¿Se requiere cambio de uso?:** Sí / No
-- **¿Quién tramita el cambio de uso?:** Propietario / Inquilino
+- **¿Permite actividad comercial (cafetería)?:** Asumo que Sí
+- **Uso de suelo en escritura:** Comercial Asumido
+- **¿Se requiere cambio de uso?:** No, Asumido
+- **¿Quién tramita el cambio de uso?:** Propietario, Asumido
 
 ### Restricciones operacionales
 - **¿Hay restricciones de horario?:** Sí / No

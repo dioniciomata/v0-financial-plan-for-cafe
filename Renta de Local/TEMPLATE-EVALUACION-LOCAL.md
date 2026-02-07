@@ -9,18 +9,11 @@
 
 ## 1. UBICACIÓN Y CARACTERÍSTICAS GENERALES
 
-### Ubicación exacta
-[Calle, zona, referencias cercanas]
-
 ### Tamaño del local
 - Metros cuadrados: **[  ]** m²
 - Distribución: [describe si es cuadrado, rectangular, alargado, etc.]
-- Altura del techo: [Alto / Bajo / Normal]
 
 ### Accesos y distribución
-- Número de entradas/salidas: **[  ]**
-- ¿Tiene área para clientes dentro?: **Sí / No**
-- ¿Solo mostrador?: **Sí / No**
 - Descripción del espacio: [observaciones]
 
 ---
@@ -34,7 +27,7 @@
 | Luz/Electricidad | Sí / No | |
 | Gas | Sí / No | |
 | Internet | Sí / No | |
-| Drenaje/Albañal | Sí / No | |
+| Bano | Sí / No | |
 
 ### Electricidad (crucial para equipos)
 - **Capacidad (amperes):** [  ] A
