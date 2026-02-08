@@ -2,18 +2,51 @@
 
 Costos recurrentes mensuales necesarios para mantener la operación de la cafetería.
 
-## A) Arriendo e Impuestos
+---
+
+## A) OPCIONES DE RENTA Y VIVIENDA
+
+### OPCIÓN 1: LOCAL EXCLUSIVO PARA CAFETERÍA
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
-| Renta del local | 1 mes | $13,000 (rango: 10k-16k) | $13,000 |
+| Renta del local (café únicamente) | 1 mes | $13,000 (rango: 10k-16k) | $13,000 |
 | Impuesto predial/Contribución | 1 mes | - | $0 |
 | Servicios de seguridad | 1 mes | - | $0 |
-| **SUBTOTAL ARRIENDO E IMPUESTOS** | | | **$13,000** |
+| **SUBTOTAL OPCIÓN 1** | | | **$13,000** |
+
+### OPCIÓN 2: CASA/EDIFICIO USO MIXTO (Vivienda + Cafetería)
+
+| Item | Cantidad | Costo Unitario | Costo Total |
+|---|---|---|---|
+| Renta total del inmueble | 1 mes | Variable | Variable |
+| **Asignación a cafetería** (aprox. 50%) | 1 mes | Renta total ÷ 2 | Renta total ÷ 2 |
+| **Asignación a vivienda personal** (aprox. 50%) | 1 mes | Renta total ÷ 2 | Renta total ÷ 2 |
+| Impuesto predial/Contribución | 1 mes | - | $0 |
+| Servicios de seguridad | 1 mes | - | $0 |
+| **SUBTOTAL OPCIÓN 2 (Cafetería)** | | | **Renta ÷ 2** |
+
+**Ejemplo Opción 2:** Si renta total = $30,000
+- Costo cafetería = $15,000 (50%)
+- Costo vivienda personal = $15,000 (50%)
+- Ahorro vs. 2 rentas separadas = $28,500 - $30,000 = Ahorro de hasta $1,500/mes
+
+### COMPARATIVA DE OPCIONES (RENTA ÚNICAMENTE)
+
+| Escenario | Renta Vivienda | Renta Cafetería | Total Mensual |
+|---|---|---|---|
+| **Actual** | $15,500 | Ninguna | $15,500 |
+| **Opción 1 (Local exclusivo)** | $15,500 | $13,000 | $28,500 |
+| **Opción 2 (Casa mixta @ $30k)** | $15,000 | $15,000 | $30,000 |
+| **Opción 2 (Casa mixta @ $28k)** | $14,000 | $14,000 | $28,000 |
 
 ---
 
-## B) Servicios Básicos
+## B) Arriendo e Impuestos (Resumen)
+
+---
+
+## C) Servicios Básicos
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
@@ -25,7 +58,7 @@ Costos recurrentes mensuales necesarios para mantener la operación de la cafete
 
 ---
 
-## C) Nómina y Prestaciones
+## D) Nómina y Prestaciones
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
@@ -40,7 +73,7 @@ Costos recurrentes mensuales necesarios para mantener la operación de la cafete
 
 ---
 
-## D) Mantenimiento y Limpieza
+## E) Mantenimiento y Limpieza
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
@@ -51,7 +84,7 @@ Costos recurrentes mensuales necesarios para mantener la operación de la cafete
 
 ---
 
-## E) Marketing y Publicidad
+## F) Marketing y Publicidad
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
@@ -65,7 +98,7 @@ Costos recurrentes mensuales necesarios para mantener la operación de la cafete
 
 ---
 
-## F) Administración y Profesionales
+## G) Administración y Profesionales
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
@@ -78,7 +111,7 @@ Costos recurrentes mensuales necesarios para mantener la operación de la cafete
 
 ---
 
-## G) Otros Gastos Operacionales
+## H) Otros Gastos Operacionales
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
@@ -93,16 +126,35 @@ Costos recurrentes mensuales necesarios para mantener la operación de la cafete
 
 ## RESUMEN TOTAL GASTOS FIJOS MENSUALES
 
+### OPCIÓN 1: LOCAL EXCLUSIVO PARA CAFETERÍA
+
 | Categoría | Costo Total |
 |---|---|
-| Arriendo e Impuestos | $13,000 |
+| Renta (Local únicamente) | $13,000 |
 | Servicios Básicos | $3,000 |
 | Nómina y Prestaciones | $0 |
 | Mantenimiento y Limpieza | $200 |
 | Marketing y Publicidad | $0 |
 | Administración y Profesionales | $0 |
 | Otros Gastos Operacionales | $1,361.60 |
-| **TOTAL GASTOS FIJOS MENSUALES** | **$17,561.60** |
+| **TOTAL GASTOS FIJOS OPCIÓN 1** | **$17,561.60** |
+
+### OPCIÓN 2: CASA/EDIFICIO USO MIXTO
+
+**Ejemplo con renta total de $30,000 (asignación 50/50):**
+
+| Categoría | Costo Total |
+|---|---|
+| Renta (Asignación cafetería) | $15,000 |
+| Servicios Básicos | $3,000 |
+| Nómina y Prestaciones | $0 |
+| Mantenimiento y Limpieza | $200 |
+| Marketing y Publicidad | $0 |
+| Administración y Profesionales | $0 |
+| Otros Gastos Operacionales | $1,459.60 |
+| **TOTAL GASTOS FIJOS OPCIÓN 2** | **$19,659.60** |
+
+**Diferencia:** Opción 2 es $2,098 más cara mensalmente, pero incluye vivienda personal integrada.
 
 ---
 
@@ -110,3 +162,5 @@ Costos recurrentes mensuales necesarios para mantener la operación de la cafete
 
 - Los gastos están proyectados para un mes normal de operación
 - Se debe considerar variación según temporada (alta/baja demanda)
+- **Opción 2 ventaja:** Comparada con 2 rentas separadas ($28,500), una renta mixta integrada es más eficiente
+- Cuando definas el precio exacto de la renta, actualiza los números con tu valor específico
