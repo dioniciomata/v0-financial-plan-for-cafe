@@ -1,6 +1,6 @@
 # EVALUACIÓN DE LOCAL EN RENTA - CAFETERÍA
 
-**Fecha de evaluación:** [COMPLETA LA FECHA]  
+**Fecha de evaluación:** 2/8/2026
 **Contacto:** [NOMBRE DEL DUEÑO/AGENTE]  
 **Teléfono:** [NÚMERO]  
 **Disponibilidad del local:** [FECHA]  
@@ -11,10 +11,10 @@
 
 ### Tamaño del local
 - Metros cuadrados: **[  ]** m²
-- Distribución: [describe si es cuadrado, rectangular, alargado, etc.]
+- Distribución: Edificio de tres pisos con terraza, uso de suelo mixto
 
 ### Accesos y distribución
-- Descripción del espacio: [observaciones]
+- Descripción del espacio: Solia ser un hotel para gatos
 
 ---
 
@@ -50,10 +50,10 @@
 ## 3. ASPECTOS LEGALES Y ADMINISTRATIVOS
 
 ### Uso de suelo y permisos
-- **¿Permite actividad comercial (cafetería)?:** Sí / No
-- **Uso de suelo en escritura:** [Comercial / Mixto / Otro]
-- **¿Se requiere cambio de uso?:** Sí / No
-- **¿Quién tramita el cambio de uso?:** Propietario / Inquilino
+- **¿Permite actividad comercial (cafetería)?:** Sí
+- **Uso de suelo en escritura:**  Mixto Asumido
+- **¿Se requiere cambio de uso?:**  No Asumido
+- **¿Quién tramita el cambio de uso?:** Propietario Asumido
 
 ### Restricciones operacionales
 - **¿Hay restricciones de horario?:** Sí / No
@@ -72,12 +72,12 @@
 ## 4. CONDICIONES ECONÓMICAS
 
 ### Renta
-- **Renta mensual:** $[  ]
+- **Renta mensual:** $36000
 - **¿Es negociable?:** Sí / No
 - **Precio recomendado a ofrecer:** $[  ]
 
 ### Contrato y garantía
-- **Tipo de contrato:** 6 meses / 1 año / 2 años / Otro: [  ]
+- **Tipo de contrato:**  2 años
 - **Depósito de garantía:** $[  ] ([  ] meses)
 - **Comisión inmobiliaria:** $[  ]
 - **¿Quién paga la comisión?:** Inquilino / Dueño / Compartida
@@ -108,8 +108,8 @@
 ## 6. VIABILIDAD DEL NEGOCIO
 
 ### Ubicación y flujo
-- **Flujo de peatones:** Alto / Medio / Bajo
-- **Tipo de zona:** Centro / Residencial / Comercial / Mixto
+- **Flujo de peatones:** Alto 
+- **Tipo de zona:** Centro 
 - **¿Zona segura?:** Sí / No
 
 ### Competencia
