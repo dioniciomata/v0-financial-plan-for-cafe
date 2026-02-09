@@ -72,7 +72,7 @@
 ## 4. CONDICIONES ECONÓMICAS
 
 ### Renta
-- **Renta mensual:** $[  ]
+- **Renta mensual:** $20000
 - **¿Es negociable?:** Sí / No
 - **Precio recomendado a ofrecer:** $[  ]
 
