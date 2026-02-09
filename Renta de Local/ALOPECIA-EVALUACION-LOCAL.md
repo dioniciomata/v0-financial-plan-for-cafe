@@ -3,7 +3,7 @@
 **Fecha de evaluación:** [COMPLETA LA FECHA]  
 **Contacto:** [NOMBRE DEL DUEÑO/AGENTE]  
 **Teléfono:** [NÚMERO]  
-**Disponibilidad del local:** En remodelacion para ser vivienda. Aun no esta disponible.
+**Disponibilidad del local:** [FECHA]  
 
 ---
 
