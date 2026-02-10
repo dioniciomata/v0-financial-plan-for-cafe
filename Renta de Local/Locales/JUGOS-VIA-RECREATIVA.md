@@ -18,6 +18,7 @@
 - **Ubicación:** Av. Cubilete #781, cruce con Tepeyac
 - **Descripción del espacio:** Local comercial en zona de alta afluencia y fácil acceso. Excelente iluminación natural. Espacio funcional con posibilidad de adaptación.
 - **Entrada/Salida:** 1 entrada principal directa a la avenida (a confirmar si hay entrada de servicio)
+- **Terraza:** Disponible con toldo exterior. **OPORTUNIDAD:** Removerán el toldo exterior, permitiendo instalar mesas con sombrilla en la terraza. Esto aumentaría la capacidad de clientes en espacio externo, pero implicaría inversión adicional en muebles y sombrillas.
 
 ---
 
@@ -158,6 +159,8 @@
 ### Observaciones finales
 El local tiene EXCELENTE potencial por ubicación, pero está en etapa muy temprana de evaluación. La mayoría de aspectos técnicos y legales están sin confirmar. Requiere: (1) Visita física de verificación, (2) Inspección por ingeniero/técnico de plomería y electricidad, (3) Confirmación legal con abogado sobre permisos de COEPRIS.
 
+**OPORTUNIDAD TERRAZA:** La posibilidad de remover el toldo exterior e instalar mesas con sombrilla es interesante para aumentar capacidad de clientes en área externa. Sin embargo, esto implica inversión adicional en muebles (mesas, sillas, sombrillas) que debe considerarse en el análisis de gastos de apertura inicial.
+
 **Este local MERECE investigación más profunda pero NO está listo para decisión aún.**
 
 ### Recomendación personal
@@ -190,10 +193,12 @@ La ubicación es excelente y la renta es razonable para la zona, pero hay demasi
 2. ¿El local permite cambio de uso a "Cafetería"? ¿Está aprobado por municipio?
 3. ¿Se permite instalar campana/extractor de olores? ¿En azotea?
 4. ¿Cuáles son las especificaciones de electricidad, agua y gas actuales?
-5. ¿El contrato es flexible? ¿Plazo mínimo?
+5. ¿El contrato es flexible? ¿Plazo mínimo? (Recomendar mínimo 1-2 años)
 6. ¿Incluye servicios de limpieza/seguridad adicionales o solo mantenimiento?
 7. ¿Hay opción de prórroga al vencer el contrato?
 8. ¿Quién es responsable de reparaciones mayores?
+9. **TERRAZA:** ¿Es correcto que removerán el toldo exterior? ¿Se permite instalar mesas y sombrillas en la terraza? ¿Esto afecta la renta o gastos mensuales?
+10. ¿Hay restricciones municipales sobre ocupación de espacio exterior con mesas?
 
 **CONTACTO:**
 📞 33-21-15-84-48  

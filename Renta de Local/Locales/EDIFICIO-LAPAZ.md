@@ -10,7 +10,7 @@
 ## 1. UBICACIÓN Y CARACTERÍSTICAS GENERALES
 
 ### Tamaño del local
-- Metros cuadrados: **[  ]** m²
+- Metros cuadrados: **104** m²
 - Distribución: Edificio de tres pisos con terraza, uso de suelo mixto
 
 ### Accesos y distribución
@@ -77,7 +77,7 @@
 - **Precio recomendado a ofrecer:** $[  ]
 
 ### Contrato y garantía
-- **Tipo de contrato:**  2 años
+- **Tipo de contrato:** **2 años** (Confirmado)
 - **Depósito de garantía:** $[  ] ([  ] meses)
 - **Comisión inmobiliaria:** $[  ]
 - **¿Quién paga la comisión?:** Inquilino / Dueño / Compartida
