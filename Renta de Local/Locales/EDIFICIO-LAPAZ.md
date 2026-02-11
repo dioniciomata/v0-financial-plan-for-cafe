@@ -131,46 +131,90 @@
 ### Puntuación por criterio (1-10)
 | Criterio | Puntuación | Comentarios |
 |---|---|---|
-| Ubicación estratégica | [  ] | |
-| Infraestructura para cafetería | [  ] | |
-| Flexibilidad legal | [  ] | |
-| Precio/Renta asequible | [  ] | |
-| Viabilidad del negocio | [  ] | |
-| **PROMEDIO GENERAL** | **[  ]** | |
+| Ubicación estratégica | **8/10** | Colonia Americana, zona consolidada con buen flujo comercial |
+| Infraestructura para cafetería | **6/10** | Espacio grande (127 m²), pero requiere inspección técnica completa |
+| Flexibilidad legal | **7/10** | Uso mixto declarado, pero detalles legales por confirmar |
+| Precio/Renta asequible | **5/10** | $34,000 es alto. Negociable a $26,000 según dueño |
+| Viabilidad del negocio | **7/10** | Espacio amplio ideal para expansión futura. Ubicación accesible |
+| **PROMEDIO GENERAL** | **6.6/10** | Local viable pero requiere investigación profunda |
 
 ### Análisis costo-beneficio
 **Ventajas del local:**
-1. [ventaja]
-2. [ventaja]
-3. [ventaja]
+1. Espacio muy amplio (127 m² construcción) - ideal para cafetería, área de clientes, y futuras expansiones
+2. Uso de suelo mixto ya declarado - menos trámites legales de cambio de uso
+3. Infraestructura existente: 3 baños completos, cocina instalada - reduce inversión inicial
+4. Terraza adicional - potencial para área de clientes externa
+5. Ubicación en Colonia Americana - zona consolidada con buen comercio
+6. Renta potencialmente negociable (dueño ofrece reducir de $34,000 a $26,000)
+7. Contrato 2 años - estabilidad operacional
 
 **Desventajas del local:**
-1. [desventaja]
-2. [desventaja]
-3. [desventaja]
+1. Renta actual muy alta ($34,000/mes) - significativamente arriba del promedio para zona
+2. Inmueble requiere inspección técnica completa (anterior uso: hotel de gatos)
+3. Espacio sin división de paredes - requiere remodelación extensiva
+4. 6 desniveles en recepción - accesibilidad comprometida, requiere adaptación
+5. Desconocido: capacidad eléctrica, salidas de gas, estado del drenaje
+6. Desconocido: aprobación municipal para cafetería, restricciones de horario
+7. Depósito de garantía alto ($34,000 = 1 mes) - inversión inicial considerable
 
 ### Observaciones finales
-[Escribe cualquier detalle importante o dudas que quedaron]
+EDIFICIO LA PAZ es una opción interesante por su tamaño y ubicación, pero presenta varios riesgos. La renta inicial de $34,000 es prohibitiva para una cafetería pequeña; sin embargo, la disposición del dueño (JUJU) de negociar hasta $26,000 lo haría más viable ($13,000 para cafetería, $13,000 para vivienda con Opción 2). El inmueble requiere inspección profunda: historia anterior (hotel gatos), estado técnico, aprobaciones municipales. La inversión en remodelación será significativa dado el estado actual.
+
+**¿Es esto Opción 1 o Opción 2?** Basado en la descripción (127 m² construcción, 38 m² terreno, 3 baños, cocina), este PARECE ser un OPCIÓN 2 (casa mixta) donde podrías vivir en uno de los pisos y usar otro piso/área para cafetería.
 
 ### Recomendación personal
-**¿Seguir con este local?:** Sí / No / Tal vez (necesita más evaluación)
+**¿Seguir con este local?:** **SÍ - Requiere investigación urgente**
 
 **Motivo:**
-[Explica tu decisión]
+El potencial es alto: espacio amplio, ubicación buena, infraestructura existente, renta negociable. PERO: requiere confirmación urgente de: (1) Aceptación de renta $26,000 negociada, (2) Inspección técnica completa, (3) Confirmación de aprobación municipal para cafetería, (4) Detalle de depósito y términos contractuales. Si estas variables se resuelven favorablemente, es un EXCELENTE local. Si renta no baja a $26,000 o hay problemas técnicos, descartarlo.
 
 ---
 
 ## 8. PRÓXIMOS PASOS
 
-- [ ] Solicitar copia del contrato estándar
-- [ ] Verificar documentos legales del inmueble
-- [ ] Cotizar costo de remodelación necesaria
-- [ ] Consultar con abogado sobre términos contractuales
-- [ ] Hacer visita de reconocimiento nuevamente (confirmar medidas)
-- [ ] Comparar con otros locales antes de decidir
-- [ ] Otro: [especifica]
+**URGENTE - HACER ESTA SEMANA:**
+- [ ] **CONTACTAR A KATY / JUJU** - Confirmar si $26,000 es precio final negociado
+- [ ] **VISITA FÍSICA COMPLETA** - Medir exactamente metros reales, revisar altura techos, estado de pisos
+- [ ] **INSPECCIÓN TÉCNICA** - Ingeniero electricista: verificar capacidad amperaje, tipo de suministro (monofásico/trifásico)
+- [ ] **INSPECCIÓN PLOMERÍA** - Técnico: verificar salidas agua, gas, estado drenaje general
+- [ ] **VALIDAR TOPOLOGÍA** - Confirmar si esto es una OPCIÓN 2 (vivienda + cafetería integrada)
+
+**LEGAL:**
+- [ ] **CONSULTAR ABOGADO** - Revisar escritura, confirmar uso mixto autorizado, cambios de uso necesarios
+- [ ] **PRE-CONSULTA COEPRIS** - Viabilidad sanitaria para cafetería en 127 m²
+- [ ] **CONFIRMAR MUNICIPIO** - Restricciones de horario, permisos necesarios, zonas permitidas para comercio
+
+**ESTIMACIÓN INVERSIÓN:**
+- [ ] **COTIZAR REMODELACIÓN** - Desniveles, paredes divisorias, instalaciones nuevas
+- [ ] **COTIZAR EQUIPAMIENTO** - Máquinas café, mostrador, muebles
+- [ ] **PRESUPUESTO TOTAL** - Comparar con otros locales
+
+**COMPARATIVA:**
+- [ ] **Comparar con JUGOS-VIA-RECREATIVA** - ¿Cuál es mejor opción?
+- [ ] **Continuar buscando otras opciones** - No decidir hasta tener mínimo 3 opciones
+
+**DECIDIR:**
+- [ ] Si renta $26,000 + inspecciones positivas → Proceder a contrato
+- [ ] Si renta no baja o hay problemas → Descartar y enfocarse en otras opciones
 
 ---
 
 **Notas adicionales:**
-[Espacio libre para anotaciones importantes]
+
+**CONTACTO DIRECTO:**
+📞 3315809999 (JUJU/KATY)  
+📍 Colonia Americana, Guadalajara  
+🏘️ Edificio de 3 pisos, uso mixto  
+
+**DATOS TÉCNICOS PENDIENTES (CRÍTICOS):**
+- Capacidad eléctrica (amperes) - ¿MONOFÁSICO O TRIFÁSICO?
+- Salida de gas - ¿Dónde y cuántas?
+- Sistema drenaje - ¿Capacidad para uso comercial?
+- Aprobación municipal - ¿Ya existe o requiere trámite?
+
+**DECISIÓN CLAVE:**
+Este local SOLO tiene sentido si:
+1. Renta baja a $26,000 (máximo $28,000)
+2. Es una Opción 2 viable (vivienda + cafetería)
+3. Inspecciones técnicas son positivas
+4. Municipio/COEPRIS aprueban uso comercial cafetería
