@@ -3,14 +3,14 @@
 **Fecha de evaluación:** 2/8/2026
 **Contacto:** [NOMBRE DEL DUEÑO/AGENTE]  
 **Teléfono:** [NÚMERO]  
-**Disponibilidad del local:** [FECHA]  
+**Disponibilidad del local:** Disponible
 
 ---
 
 ## 1. UBICACIÓN Y CARACTERÍSTICAS GENERALES
 
 ### Tamaño del local
-- Metros cuadrados: **104** m²
+- Metros cuadrados: **38** m² de terreno pero **127 ** m² de construccion
 - Distribución: Edificio de tres pisos con terraza, uso de suelo mixto
 
 ### Accesos y distribución
@@ -109,7 +109,7 @@
 
 ### Ubicación y flujo
 - **Flujo de peatones:** Alto 
-- **Tipo de zona:** Centro 
+- **Tipo de zona:** Colonia Americana
 - **¿Zona segura?:** Sí / No
 
 ### Competencia
