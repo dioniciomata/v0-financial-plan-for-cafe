@@ -1,8 +1,8 @@
 # EVALUACIÓN DE LOCAL EN RENTA - CAFETERÍA
 
 **Fecha de evaluación:** 2/8/2026
-**Contacto:** [NOMBRE DEL DUEÑO/AGENTE]  
-**Teléfono:** [NÚMERO]  
+**Contacto:** DUEÑO JUJU / AGENTE KATY
+**Teléfono:** 3315809999  
 **Disponibilidad del local:** Disponible
 
 ---
@@ -11,10 +11,10 @@
 
 ### Tamaño del local
 - Metros cuadrados: **38** m² de terreno pero **127 ** m² de construccion
-- Distribución: Edificio de tres pisos con terraza, uso de suelo mixto
+- Distribución: Edificio de tres pisos con terraza, uso de suelo mixto. Es un solo espacio. 3 banos completos y una cocina instalada.
 
 ### Accesos y distribución
-- Descripción del espacio: Solia ser un hotel para gatos
+- Descripción del espacio:  Sin division de paredes. Recepcion con 6 desniveles. Solia ser un hotel para gatos.
 
 ---
 
@@ -72,14 +72,14 @@
 ## 4. CONDICIONES ECONÓMICAS
 
 ### Renta
-- **Renta mensual:** $36000
-- **¿Es negociable?:** Sí / No
-- **Precio recomendado a ofrecer:** $[  ]
+- **Renta mensual:** $34000
+- **¿Es negociable?:** Sí
+- **Precio recomendado a ofrecer:** $26000
 
 ### Contrato y garantía
 - **Tipo de contrato:** **2 años** (Confirmado)
-- **Depósito de garantía:** $[  ] ([  ] meses)
-- **Comisión inmobiliaria:** $[  ]
+- **Depósito de garantía:** $34000 (1 mes)
+- **Comisión inmobiliaria:** Desconocida
 - **¿Quién paga la comisión?:** Inquilino / Dueño / Compartida
 
 ### Gastos incluidos/excluidos
@@ -97,8 +97,8 @@
 
 ## 5. TÉRMINOS Y FLEXIBILIDAD DEL CONTRATO
 
-- **Plazo para decidir:** [número de días]
-- **Fecha de disponibilidad:** [fecha]
+- **Plazo para decidir:** Indefinido
+- **Fecha de disponibilidad:** Disponible
 - **Plazo de preaviso para desocupar:** [número de meses]
 - **¿Se permite subarrendar?:** Sí / No
 - **Penalizaciones por ruptura de contrato:** [especifica]
