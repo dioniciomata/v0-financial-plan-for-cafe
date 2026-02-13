@@ -173,32 +173,66 @@ La ubicación es excelente y la renta es razonable para la zona, pero hay demasi
 
 ## 8. PRÓXIMOS PASOS
 
-- [ ] **CONTACTAR a VELÁ Abogados** para confirmar disponibilidad inmediata y obtener propuesta de contrato
-- [ ] **VISITA FÍSICA** - Medir local exactamente, verificar luz, agua, gas, drenaje, accesos
-- [ ] **INVESTIGACIÓN DE COMPETENCIA** - Listar cafeterías en zona, revisar precios y ubicación
-- [ ] **COTIZACIÓN CON TÉCNICO** - Llevar a ingeniero/técnico para evaluar electricidad, plomería, viabilidad de campana
-- [ ] **INVESTIGACIÓN LEGAL** - Consultar con abogado: cambio de uso, permisos COEPRIS, restricciones municipales
-- [ ] **CONSULTA CON COEPRIS** - Pre-consulta sobre requisitos de salubridad para local de 40 m² como cafetería
-- [ ] **VERIFICAR ZONA** - Caminar zona en diferentes horas (mañana, tarde, noche) para evaluar flujo y seguridad
-- [ ] **INVESTIGACIÓN DE MERCADO** - Ubicar competencia exacta, precios, horarios
-- [ ] **Comparar con otros locales** antes de decidir (aún buscar opciones)
-- [ ] **SOLICITAR CONTRATO ESTÁNDAR** - Revisión legal completa antes de comprometerse
+**URGENTE - ESTA SEMANA:**
+- [ ] **CONTACTAR VELÁ ABOGADOS** (33-21-15-84-48) - Confirmar disponibilidad exacta, obtener propuesta de contrato
+- [ ] **VISITA FÍSICA COMPLETA** - Medir local exactamente, verificar servicios (agua, gas, luz), estado de terraza
+- [ ] **FOTOS Y VIDEO** - Documentar espacio actual, terraza, divisiones, iluminación
+- [ ] **INSPECCIÓN TÉCNICA** - Llevar ingeniero/técnico para evaluación de electricidad, plomería, viabilidad de campana
+
+**LEGAL:**
+- [ ] **CONSULTAR ABOGADO** - Revisar: cambio de uso a cafetería, permisos municipales, restricciones
+- [ ] **PRE-CONSULTA COEPRIS** - Validar requisitos sanitarios para local de 40 m² como cafetería
+- [ ] **MUNICIPIO** - Confirmar restricciones de horario, permisos necesarios, ocupación de terraza
+
+**MERCADO Y COMPETENCIA:**
+- [ ] **INVESTIGACIÓN DE COMPETENCIA** - Identificar todas las cafeterías en zona Cubilete/Tepeyac, precios, horarios
+- [ ] **ANÁLISIS DE ZONA** - Caminar la avenida en distintas horas (mañana/tarde/noche) para evaluar flujo y seguridad
+- [ ] **ESTACIONAMIENTO** - Verificar si hay estacionamiento propio o público cercano
+
+**INVERSIÓN INICIAL:**
+- [ ] **COTIZAR MUEBLES PARA TERRAZA** - Si removen toldo: presupuesto de mesas, sillas, sombrillas
+- [ ] **COTIZAR REMODELACIÓN** - Si requiere separaciones o modificaciones
+- [ ] **COTIZAR EQUIPAMIENTO** - Máquinas de café, mostrador, refrigerador, etc.
+
+**CONTRATO:**
+- [ ] **Solicitar propuesta de contrato estándar** - Revisar plazo, depósito, términos, cláusulas de prórroga
+- [ ] **Confirmar si $19,000 incluye todos los servicios** - Verificar qué está incluido exactamente
+- [ ] **Negociar términos** - Mínimo 1-2 años de contrato, opción de prórroga garantizada
+
+**COMPARATIVA CON OTROS LOCALES:**
+- [ ] **Comparar con LOCAL-EXPIATORIO** ($12,000) - ¿Vale $7,000 extra/mes por ubicación?
+- [ ] **Comparar con EDIFICIO-LAPAZ** ($26,000) - ¿Cuál ofrece mejor relación precio/tamaño/ubicación?
+- [ ] **Matriz de decisión** - Crear tabla comparativa de los 3 locales
+
+**DECISIÓN:**
+- [ ] Si verificaciones son positivas → Proceder a negociación de contrato
+- [ ] Si hay problemas técnicos → Descartar y enfocarse en otras opciones
 
 ---
 
 **Notas adicionales:**
 
 **PREGUNTAS CRÍTICAS PARA HACER A VELÁ ABOGADOS:**
-1. ¿Cuál es la disponibilidad exacta del local? ¿Necesita disponibilidad en 2026 próximo?
+1. ¿Cuál es la disponibilidad exacta del local? ¿Inmediata o requiere plazo?
 2. ¿El local permite cambio de uso a "Cafetería"? ¿Está aprobado por municipio?
-3. ¿Se permite instalar campana/extractor de olores? ¿En azotea?
-4. ¿Cuáles son las especificaciones de electricidad, agua y gas actuales?
-5. ¿El contrato es flexible? ¿Plazo mínimo? (Recomendar mínimo 1-2 años)
+3. ¿Se permite instalar campana/extractor de olores? ¿Dónde exactamente?
+4. ¿Cuáles son las especificaciones completas de electricidad, agua y gas?
+5. ¿El contrato es flexible? ¿Plazo mínimo recomendado? (Nosotros necesitamos mínimo 2 años)
 6. ¿Incluye servicios de limpieza/seguridad adicionales o solo mantenimiento?
-7. ¿Hay opción de prórroga al vencer el contrato?
+7. ¿Hay opción de prórroga garantizada al vencer el contrato?
 8. ¿Quién es responsable de reparaciones mayores?
-9. **TERRAZA:** ¿Es correcto que removerán el toldo exterior? ¿Se permite instalar mesas y sombrillas en la terraza? ¿Esto afecta la renta o gastos mensuales?
+9. **TERRAZA:** ¿Confirman que removerán el toldo exterior? ¿Se permite instalar mesas y sombrillas? ¿Esto aumenta la renta?
 10. ¿Hay restricciones municipales sobre ocupación de espacio exterior con mesas?
+11. ¿Cuál es el costo de depósito/garantía? ¿Cuántos meses?
+12. ¿Quién paga la comisión inmobiliaria?
+
+**CONTACTO:**
+📞 33-21-15-84-48  
+✉️ Contacto@velabogados.com  
+📍 Av. Cubilete #781, cruce con Tepeyac, Guadalajara  
+
+**DECISIÓN CLAVE:**
+Este es un local de BUENA ubicación pero PEQUEÑO (40 m²). Su valor es la ubicación céntrica de alta afluencia. Comparar cuidadosamente con LOCAL-EXPIATORIO que es 2.5x más grande por $7,000 MENOS/mes.
 
 **CONTACTO:**
 📞 33-21-15-84-48  
