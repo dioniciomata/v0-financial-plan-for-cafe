@@ -136,8 +136,26 @@
 
 ## 3. GASTOS OPERACIONALES MENSUALES
 
-### 3.1 Gastos Fijos
+### 3.1 Gastos Fijos - DOS OPCIONES DE RENTA
+
+#### OPCIÓN 1: LOCAL EXCLUSIVO PARA CAFETERÍA
 - **Renta del local** (m² × precio promedio Guadalajara)
+  - Renta local cafetería: $10,000-$16,000/mes
+  - Asignación total a negocio: 100%
+  
+#### OPCIÓN 2: CASA/EDIFICIO USO MIXTO (Vivienda + Cafetería)
+- **Renta del inmueble** (casa o edificio con uso comercial)
+  - Renta total: Variable (ejemplo: $30,000)
+  - Asignación a cafetería: ~50% ($15,000 en ejemplo)
+  - Asignación a vivienda personal: ~50% ($15,000 en ejemplo)
+  - **Ahorro:** Te ahorras pagar 2 rentas separadas
+  - **Ventaja:** Local integrado con tu residencia
+
+**Comparativa simple:**
+- Opción 1: Renta casa $15,500 + Renta local $13,000 = $28,500 total
+- Opción 2: Una renta $30,000 ÷ 2 = $15,000 cafetería + $15,000 vivienda
+
+**Otros gastos fijos (comunes a ambas opciones):**
 - **Servicios básicos:**
   - Electricidad
   - Agua potable
