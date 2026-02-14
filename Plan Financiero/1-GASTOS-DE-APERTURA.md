@@ -6,8 +6,8 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
-| Máquina de espresso | 1 | | |
-| Molino de café | 1 | | |
+| Máquina de espresso | 1 | $8,160.00 | $8,160.00 |
+| Molino de café | 1 | $12,273.00 | $12,273.00 |
 | Grinder de granos | 1 | | |
 | Vapor de leche | Incluido | | |
 | Máquina de hielo | 1 | | |
