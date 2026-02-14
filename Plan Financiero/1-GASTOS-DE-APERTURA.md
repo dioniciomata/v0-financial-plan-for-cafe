@@ -4,16 +4,44 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 
 ## A) Equipamiento de Café
 
+### Máquinas de Espresso (Opciones)
+
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
-| Máquina de espresso | 1 | | |
-| Molino de café | 1 | | |
-| Grinder de granos | 1 | | |
-| Vapor de leche | Incluido | | |
-| Máquina de hielo | 1 | | |
-| Refrigerador | 1 | | |
-| Congelador | 1 | | |
-| **SUBTOTAL EQUIPAMIENTO** | | | |
+| **Opción 1: Oster Perfect Brew 15 Bar (Integrada)** | 1 | $8,160 | $8,160 |
+| Molino integrado + espresso + vapor | 1 | Incluido | - |
+| | | | |
+| **Opción 2: Máquina De'Longhi EC155M (Manual)** | 1 | $4,500 | $4,500 |
+| Portafiltro + varilla vapor manual | 1 | Incluido | - |
+
+**Recomendación:** Opción 2 si presupuesto limitado. Opción 1 si todo integrado.
+
+### Molinos de Café (Si no se elige Opción 1)
+
+| Item | Cantidad | Costo Unitario | Costo Total |
+|---|---|---|---|
+| **Opción 1: Breville Smart Grinder Pro** | 1 | $8,000 | $8,000 |
+| 60 configuraciones, muelas cónicas, digital | 1 | Incluido | - |
+| | | | |
+| **Opción 2: San Son Molino Semi-Comercial** | 1 | $12,273 | $12,273 |
+| Mayor capacidad (500g), burr grinder | 1 | Incluido | - |
+
+**Recomendación:** Si usa Opción 1 Oster, no necesita molino separado. Si usa De'Longhi + Breville = mejor calidad.
+
+### Equipo Complementario
+
+| Item | Cantidad | Costo Unitario | Costo Total |
+|---|---|---|---|
+| Máquina de hielo (Opción 1: Frigidaire ~12kg/día) | 1 | $2,700 | $2,700 |
+| Máquina de hielo (Opción 2: Bluelander 11.5kg/día) | 1 | $8,500 | $8,500 |
+| Refrigerador comercial | 1 | $15,000 | $15,000 |
+| Congelador comercial | 1 | $11,500 | $11,500 |
+| **SUBTOTAL EQUIPAMIENTO CAFÉ** | | | **$50,260** |
+
+**Notas:** 
+- Presupuesto se basa en: De'Longhi ($4,500) + Breville Grinder ($8,000) + Frigidaire Hielo ($2,700) + Refrigerador ($15,000) + Congelador ($11,500) = $41,700 (Escenario Recomendado)
+- Opción Oster todo en uno = $8,160 (menor costo inicial)
+- Ambos refrigerador y congelador incluyen instalación
 
 ---
 
@@ -22,12 +50,14 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
 | Mostrador/Barra | 1 | | |
-| Mesas | | | |
-| Sillas | | | |
+| Mesas (3 mesas) | 3 | $2,667 | $8,000 |
+| Sillas (16 sillas) | 16 | $500 | Incluido en mesas |
 | Estantes | | | |
 | Decoración interior | | | |
 | Rotulería/Señalética | 1 | | |
-| **SUBTOTAL MUEBLES Y DECORACIÓN** | | | |
+| **SUBTOTAL MUEBLES Y DECORACIÓN** | | | **$8,000** |
+
+**Nota:** 3 mesas + 16 sillas = $8,000 total
 
 ---
 
@@ -40,8 +70,10 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 | Instalación eléctrica | 1 | | |
 | Instalación gas | 1 | | |
 | Instalación hidráulica | 1 | | |
-| Horno/Estufa | 1 | | |
-| **SUBTOTAL REMODELACIÓN** | | | |
+| Horno/Plancha/Microondas | 1 | $16,500 | $16,500 |
+| **SUBTOTAL REMODELACIÓN** | | | **$16,500** |
+
+**Nota:** Presupuesto promedio para Horno/Plancha/Microondas (rango: $8,000 – $25,000)
 
 ---
 
@@ -110,15 +142,36 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 
 | Categoría | Costo Total |
 |---|---|
-| Equipamiento de Café | |
-| Muebles y Decoración | |
-| Remodelación y Construcción | |
-| Zona de Preparación | |
-| Sistema POS | |
-| Trámites, Permisos y Legales | |
+| Equipamiento de Café | $41,700 - $50,260 |
+| Muebles y Decoración | $8,000 |
+| Remodelación y Construcción | $16,500+ |
+| Zona de Preparación | Por definir |
+| Sistema POS | Por definir |
+| Trámites, Permisos y Legales | Por definir |
 | Seguridad y Vigilancia | $4,000 |
-| Inventario Inicial | |
-| **TOTAL INVERSIÓN INICIAL** | |
+| Inventario Inicial | Por definir |
+| **TOTAL INVERSIÓN INICIAL ESTIMADA** | **$70,200+** |
+
+**Breakdown por Escenario:**
+
+### Escenario Básico (Oster todo en uno):
+- Oster Perfect Brew: $8,160
+- Frigidaire Hielo: $2,700
+- Refrigerador: $15,000
+- Congelador: $11,500
+- Horno/Plancha: $16,500
+- Mesas/Sillas: $8,000
+- **Subtotal:** ~$61,860
+
+### Escenario Recomendado (De'Longhi + Breville):
+- De'Longhi: $4,500
+- Breville Grinder: $8,000
+- Frigidaire Hielo: $2,700
+- Refrigerador: $15,000
+- Congelador: $11,500
+- Horno/Plancha: $16,500
+- Mesas/Sillas: $8,000
+- **Subtotal:** ~$66,200 (sin Zona Preparación, POS, Inventario, Trámites)
 
 ---
 
