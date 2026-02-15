@@ -52,12 +52,16 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 | Mostrador/Barra | 1 | | |
 | Mesas (3 mesas) | 3 | $2,667 | $8,000 |
 | Sillas (16 sillas) | 16 | $500 | Incluido en mesas |
+| Sombrillas para terraza (2 unidades - Opción Básica) | 2 | $800 | $1,600 |
+| Sombrillas para terraza (2 unidades - Opción Premium) | 2 | $1,800 | $3,600 |
 | Estantes | | | |
 | Decoración interior | | | |
 | Rotulería/Señalética | 1 | | |
-| **SUBTOTAL MUEBLES Y DECORACIÓN** | | | **$8,000** |
+| **SUBTOTAL MUEBLES Y DECORACIÓN** | | | **$17,600** |
 
-**Nota:** 3 mesas + 16 sillas = $8,000 total
+**Nota:** 
+- 3 mesas + 16 sillas = $8,000 total
+- Sombrillas para terraza: Elegir entre Básica ($1,600) o Premium ($3,600)
 
 ---
 
@@ -65,15 +69,21 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
-| Pintura y acabados | 1 | | |
+| Pintura y acabados (Opción Económica) | 1 | $2,000 | $2,000 |
+| Pintura y acabados (Opción Buena Calidad) | 1 | $6,000 | $6,000 |
 | Piso | m² | | |
 | Instalación eléctrica | 1 | | |
 | Instalación gas | 1 | | |
 | Instalación hidráulica | 1 | | |
 | Horno/Plancha/Microondas | 1 | $16,500 | $16,500 |
-| **SUBTOTAL REMODELACIÓN** | | | **$16,500** |
+| Cilindro de gas (Opción 10L) | 1 | $1,000 | $1,000 |
+| Cilindro de gas (Opción 30L) | 1 | $1,800 | $1,800 |
+| **SUBTOTAL REMODELACIÓN** | | | **$27,300** |
 
-**Nota:** Presupuesto promedio para Horno/Plancha/Microondas (rango: $8,000 – $25,000)
+**Nota:** 
+- Pintura: Elegir entre Económica ($2,000) o Buena Calidad ($6,000)
+- Cilindro de gas: Elegir entre 10L ($1,000) o 30L ($1,800)
+- Horno/Plancha/Microondas (rango: $8,000 – $25,000)
 
 ---
 
@@ -116,13 +126,25 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 
 ---
 
-## G) Seguridad y Vigilancia
+## H) Seguridad y Vigilancia
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
 | Sistema de cámaras de seguridad | 1 | $4,000 | $4,000 |
 | Instalación personal | 1 | - | - |
 | **SUBTOTAL SEGURIDAD Y VIGILANCIA** | | | **$4,000** |
+
+---
+
+## G) Depósito de Garantía (Primer Mes de Renta)
+
+| Item | Cantidad | Costo Unitario | Costo Total |
+|---|---|---|---|
+| Depósito de Garantía (Opción 1: Local Exclusivo) | 1 | $13,000 | $13,000 |
+| Depósito de Garantía (Opción 2: Casa Mixta) | 1 | $15,000 | $15,000 |
+| **SUBTOTAL DEPÓSITO DE GARANTÍA** | | | **$13,000 - $15,000** |
+
+**Nota:** El depósito equivale a un mes de renta, reembolsable al finalizar el contrato
 
 ---
 
@@ -143,27 +165,33 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 | Categoría | Costo Total |
 |---|---|
 | Equipamiento de Café | $41,700 - $50,260 |
-| Muebles y Decoración | $8,000 |
-| Remodelación y Construcción | $16,500+ |
+| Muebles y Decoración (con sombrillas) | $9,600 - $17,600 |
+| Remodelación y Construcción | $19,300 - $27,800 |
+| Depósito de Garantía | $13,000 - $15,000 |
 | Zona de Preparación | Por definir |
 | Sistema POS | Por definir |
 | Trámites, Permisos y Legales | Por definir |
 | Seguridad y Vigilancia | $4,000 |
 | Inventario Inicial | Por definir |
-| **TOTAL INVERSIÓN INICIAL ESTIMADA** | **$70,200+** |
+| **TOTAL INVERSIÓN INICIAL ESTIMADA** | **$87,600 - $112,660** |
 
 **Breakdown por Escenario:**
 
-### Escenario Básico (Oster todo en uno):
+### Escenario Básico (Oster + Pintura Económica + Sombrillas Básicas):
 - Oster Perfect Brew: $8,160
 - Frigidaire Hielo: $2,700
 - Refrigerador: $15,000
 - Congelador: $11,500
 - Horno/Plancha: $16,500
 - Mesas/Sillas: $8,000
-- **Subtotal:** ~$61,860
+- Pintura Económica: $2,000
+- Cilindro Gas 10L: $1,000
+- Sombrillas Básicas: $1,600
+- Depósito Garantía: $13,000
+- Cámaras Seguridad: $4,000
+- **Subtotal:** ~$83,460
 
-### Escenario Recomendado (De'Longhi + Breville):
+### Escenario Recomendado (De'Longhi + Breville + Pintura Buena + Sombrillas Premium):
 - De'Longhi: $4,500
 - Breville Grinder: $8,000
 - Frigidaire Hielo: $2,700
@@ -171,7 +199,12 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 - Congelador: $11,500
 - Horno/Plancha: $16,500
 - Mesas/Sillas: $8,000
-- **Subtotal:** ~$66,200 (sin Zona Preparación, POS, Inventario, Trámites)
+- Pintura Buena Calidad: $6,000
+- Cilindro Gas 30L: $1,800
+- Sombrillas Premium: $3,600
+- Depósito Garantía: $15,000
+- Cámaras Seguridad: $4,000
+- **Subtotal:** ~$96,600 (sin Zona Preparación, POS, Inventario, Trámites)
 
 ---
 
