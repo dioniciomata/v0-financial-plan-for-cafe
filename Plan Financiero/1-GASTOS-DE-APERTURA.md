@@ -148,15 +148,27 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 
 ---
 
-## H) Inventario Inicial
+## I) Inventario Inicial (Para 14 bebidas/día)
+
+Basado en 14 bebidas diarias durante primer mes (26 días) = 364 bebidas
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
-| Café y especias | 1 | | |
-| Leche y productos frescos | 1 | | |
-| Vasos, servilletas, empaques | 1 | | |
-| Otros consumibles | 1 | | |
-| **SUBTOTAL INVENTARIO INICIAL** | | | |
+| **Materia Prima (Ingredientes):** | | | |
+| Café molido | 4,186g | $305/kg | $1,277 |
+| Leche | 48,478ml | $0.027/ml | $1,309 |
+| Té negro, chocolate, canela, jarabe chai | Mix | Unitarios | $509 |
+| | | | |
+| **Empaques y Consumibles:** | | | |
+| Vasos 12 oz | 346 | $1.47 | $509 |
+| Vasos 8 oz + Tapa | 36 | $3.60 | $130 |
+| Tapas adicionales | 238 | $1.35 | $321 |
+| Servilletas | 363 | $1.13 | $410 |
+| Agitadores | 347 | $0.16 | $56 |
+| | | | |
+| **SUBTOTAL INVENTARIO INICIAL** | | | **$4,521** |
+
+**Nota:** Inventario inicial para comenzar operaciones con estimado de 14 bebidas/día. Incluye materia prima para 26 días operacionales y empaques proporcionales. Costos basados en @file(5-COSTOS-VARIABLES-MENSUALES.md)
 
 ---
 
@@ -172,8 +184,8 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 | Sistema POS | Por definir |
 | Trámites, Permisos y Legales | Por definir |
 | Seguridad y Vigilancia | $4,000 |
-| Inventario Inicial | Por definir |
-| **TOTAL INVERSIÓN INICIAL ESTIMADA** | **$87,600 - $112,660** |
+| Inventario Inicial (14 bebidas/día × 26 días) | $4,521 |
+| **TOTAL INVERSIÓN INICIAL ESTIMADA** | **$92,121 - $122,181** |
 
 **Breakdown por Escenario:**
 
@@ -189,7 +201,8 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 - Sombrillas Básicas: $1,600
 - Depósito Garantía: $13,000
 - Cámaras Seguridad: $4,000
-- **Subtotal:** ~$83,460
+- Inventario Inicial: $4,521
+- **Subtotal:** ~$87,981
 
 ### Escenario Recomendado (De'Longhi + Breville + Pintura Buena + Sombrillas Premium):
 - De'Longhi: $4,500
@@ -204,7 +217,8 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 - Sombrillas Premium: $3,600
 - Depósito Garantía: $15,000
 - Cámaras Seguridad: $4,000
-- **Subtotal:** ~$96,600 (sin Zona Preparación, POS, Inventario, Trámites)
+- Inventario Inicial: $4,521
+- **Subtotal:** ~$101,121 (sin Zona Preparación, POS, Inventario, Trámites)
 
 ---
 
