@@ -58,9 +58,9 @@ Proyección detallada de entradas y salidas de efectivo para los primeros 12 mes
 
 ## C) Proyección de Saldo en Caja
 
-```
+\`\`\`
 [Gráfico de línea mostrando la evolución del saldo de caja mes a mes]
-```
+\`\`\`
 
 **Puntos críticos a observar:**
 - Meses de mayor necesidad de capital de trabajo
