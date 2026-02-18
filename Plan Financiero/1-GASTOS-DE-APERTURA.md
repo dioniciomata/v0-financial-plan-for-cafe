@@ -36,10 +36,38 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 | Máquina de hielo (Opción 2: Bluelander 11.5kg/día) | 1 | $8,500 | $8,500 |
 | Refrigerador comercial | 1 | $15,000 | $15,000 |
 | Congelador comercial | 1 | $11,500 | $11,500 |
+
+### Licuadoras
+
+| Item | Cantidad | Costo Unitario | Costo Total |
+|---|---|---|---|
+| **Opción 1: Ultrachef U2000 (2000W, 1.8L, 6 aspas)** | 1 | $2,199 | $2,199 |
+| **Opción 2: Ninja BR201AMZ (1200W, 2.1L, Auto-iQ)** | 1 | $1,998 | $1,998 |
+
+**Recomendación:** Ninja por marca, Auto-iQ y mejor calificación (4.7). Ultrachef si se prioriza potencia maxima.
+
+### Freidoras
+
+| Item | Cantidad | Costo Unitario | Costo Total |
+|---|---|---|---|
+| **Opción 1: Freidora Industrial Gas 10L (Acero + Canastilla)** | 1 | ~$3,000 | ~$3,000 |
+| **Opción 2: Huken MasterChef Horno/Freidora Aire 12L (10 funciones)** | 1 | $1,799 | $1,799 |
+
+**Recomendación:** Huken MasterChef para snacks ligeros (10 funciones en 1). Freidora industrial si se planea freir en volumen.
+
+### Estufas
+
+| Item | Cantidad | Costo Unitario | Costo Total |
+|---|---|---|---|
+| **Opción 1: Estufa Acros Gas 20" NAW1001S (Acero Inox, Horno)** | 1 | $4,190 | $4,190 |
+| **Opción 2: Estufa IEM EI5020BAPS1 20" Silver** | 1 | ~$5,000 | ~$5,000 |
+
+**Recomendación:** Estufa Acros ($4,190) - marca Whirlpool, acero inoxidable, horno con ventana, mejor precio.
+
 | **SUBTOTAL EQUIPAMIENTO CAFÉ** | | | **$50,260** |
 
 **Notas:** 
-- Presupuesto se basa en: De'Longhi ($4,500) + Breville Grinder ($8,000) + Frigidaire Hielo ($2,700) + Refrigerador ($15,000) + Congelador ($11,500) = $41,700 (Escenario Recomendado)
+- Presupuesto base se basa en: De'Longhi ($4,500) + Breville Grinder ($8,000) + Frigidaire Hielo ($2,700) + Refrigerador ($15,000) + Congelador ($11,500) = $41,700 (Escenario Recomendado)
 - Opción Oster todo en uno = $8,160 (menor costo inicial)
 - Ambos refrigerador y congelador incluyen instalación
 
@@ -91,12 +119,17 @@ Costos únicos necesarios para establecer la cafetería antes de comenzar operac
 
 | Item | Cantidad | Costo Unitario | Costo Total |
 |---|---|---|---|
-| Campana extractora | 1 | | |
+| **Extractor doméstico potente** | 1 | $1,000 - $3,000 | $2,000 |
+| **Campana extractora (si cocina elaborada)** | 1 | $3,000 - $8,000 | $5,500 |
 | Lavaplatos comercial | 1 | | |
 | Lavamanos | 1 | | |
 | Estantes de acero inoxidable | | | |
 | Utensilios de cocina | 1 | | |
-| **SUBTOTAL ZONA PREPARACIÓN** | | | |
+| **SUBTOTAL ZONA PREPARACIÓN** | | | **$2,000 - $5,500** |
+
+**Nota:**
+- Extractor domestico ($1,000-$3,000): suficiente si solo se preparan bebidas y snacks ligeros
+- Campana extractora ($3,000-$8,000): necesaria si se usa estufa y freidora a gas, para cumplir normativas COEPRIS
 
 ---
 
@@ -176,25 +209,31 @@ Basado en 14 bebidas diarias durante primer mes (26 días) = 364 bebidas
 
 | Categoría | Costo Total |
 |---|---|
-| Equipamiento de Café | $41,700 - $50,260 |
+| Equipamiento de Café (espresso, molino, hielo, refri, congelador) | $41,700 - $50,260 |
+| Licuadora | $1,998 - $2,199 |
+| Freidora | $1,799 - $3,000 |
+| Estufa | $4,190 - $5,000 |
 | Muebles y Decoración (con sombrillas) | $9,600 - $17,600 |
 | Remodelación y Construcción | $19,300 - $27,800 |
+| Zona de Preparación (extracción) | $2,000 - $5,500 |
 | Depósito de Garantía | $13,000 - $15,000 |
-| Zona de Preparación | Por definir |
 | Sistema POS | Por definir |
 | Trámites, Permisos y Legales | Por definir |
 | Seguridad y Vigilancia | $4,000 |
-| Inventario Inicial (14 bebidas/día × 26 días) | $4,521 |
-| **TOTAL INVERSIÓN INICIAL ESTIMADA** | **$92,121 - $122,181** |
+| Inventario Inicial (14 bebidas/día x 26 días) | $4,521 |
+| **TOTAL INVERSIÓN INICIAL ESTIMADA** | **$102,108 - $134,880** |
 
 **Breakdown por Escenario:**
 
-### Escenario Básico (Oster + Pintura Económica + Sombrillas Básicas):
+### Escenario Básico (opciones mas económicas):
 - Oster Perfect Brew: $8,160
 - Frigidaire Hielo: $2,700
 - Refrigerador: $15,000
 - Congelador: $11,500
-- Horno/Plancha: $16,500
+- Licuadora Ninja: $1,998
+- Freidora Huken MasterChef: $1,799
+- Estufa Acros 20": $4,190
+- Extractor doméstico: $2,000
 - Mesas/Sillas: $8,000
 - Pintura Económica: $2,000
 - Cilindro Gas 10L: $1,000
@@ -202,15 +241,18 @@ Basado en 14 bebidas diarias durante primer mes (26 días) = 364 bebidas
 - Depósito Garantía: $13,000
 - Cámaras Seguridad: $4,000
 - Inventario Inicial: $4,521
-- **Subtotal:** ~$87,981
+- **Subtotal:** ~$81,468
 
-### Escenario Recomendado (De'Longhi + Breville + Pintura Buena + Sombrillas Premium):
+### Escenario Recomendado (mejor relación calidad-precio):
 - De'Longhi: $4,500
 - Breville Grinder: $8,000
 - Frigidaire Hielo: $2,700
 - Refrigerador: $15,000
 - Congelador: $11,500
-- Horno/Plancha: $16,500
+- Licuadora Ultrachef 2000W: $2,199
+- Freidora Huken MasterChef 12L: $1,799
+- Estufa Acros 20" Acero Inox: $4,190
+- Campana extractora: $5,500
 - Mesas/Sillas: $8,000
 - Pintura Buena Calidad: $6,000
 - Cilindro Gas 30L: $1,800
@@ -218,7 +260,7 @@ Basado en 14 bebidas diarias durante primer mes (26 días) = 364 bebidas
 - Depósito Garantía: $15,000
 - Cámaras Seguridad: $4,000
 - Inventario Inicial: $4,521
-- **Subtotal:** ~$101,121 (sin Zona Preparación, POS, Inventario, Trámites)
+- **Subtotal:** ~$98,309 (sin POS ni Trámites)
 
 ---
 

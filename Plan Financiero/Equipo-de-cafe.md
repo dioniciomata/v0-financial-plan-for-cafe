@@ -170,6 +170,248 @@ Documento de referencia con las opciones disponibles para máquinas de espresso,
 
 ---
 
+---
+
+# Licuadoras
+
+## Opcion 1: Ultrachef Licuadora Profesional U2000
+
+- **Precio:** $2,199 MXN
+- **Proveedor:** Amazon Mexico
+- **Link:** https://www.amazon.com.mx/ULTRACHEF-Ultrachef-Licuadora-Profesional/dp/B099CMX4GV
+- **Calificacion:** 4.6/5 (1,042 opiniones)
+
+### Caracteristicas tecnicas:
+- Potencia: 2000W
+- Vaso de Tritan BPA Free de 1.8L
+- 6 aspas de acero inoxidable reforzado (calidad aeronautica)
+- Velocidad ajustable + boton de pulso
+- Incluye tamper para moliendas rapidas
+- Voltaje: 120V
+- Peso: 4.36 kg
+
+### Ventajas:
+- Potencia profesional (2000W) - tritura hielo, nueces, semillas
+- Autolavado: agua tibia + jabon y se limpia sola
+- Vaso resistente sin BPA
+- Excelente calificacion (4.6 estrellas, 1000+ resenas)
+- Precio muy accesible para potencia profesional
+
+### Desventajas:
+- Solo 2 velocidades (ajustable con perilla)
+- Marca menos conocida que Ninja/Oster
+
+---
+
+## Opcion 2: Ninja Licuadora Profesional BR201AMZ
+
+- **Precio:** $1,998 MXN
+- **Proveedor:** Amazon Mexico
+- **Link:** https://www.amazon.com.mx/Ninja-BR201AMZ-profesional-trituraci%C3%B3n-velocidades/dp/B0CKTYP1JT
+- **Calificacion:** 4.7/5 (1,435 opiniones)
+
+### Caracteristicas tecnicas:
+- Potencia: 1200W
+- Jarra de 2.1L (72 oz) con boquilla de vertido
+- Cuchillas Total Crushing apiladas
+- 4 velocidades (baja, media, alta, pulso)
+- Programa Auto-iQ (patrones automaticos de licuado)
+- Apta para lavaplatos (libre de BPA)
+- Voltaje: 120V
+- Peso: 3.71 kg
+
+### Ventajas:
+- Marca reconocida internacionalmente (Ninja)
+- Programa Auto-iQ elimina incertidumbre al licuar
+- Mayor capacidad (2.1L vs 1.8L)
+- Mejor calificacion (4.7 estrellas)
+- 4 velocidades + pulso
+- Incluye guia de 10 recetas
+
+### Desventajas:
+- Menor potencia que Ultrachef (1200W vs 2000W)
+- Material del vaso es plastico (no Tritan)
+
+### Recomendacion Licuadoras:
+**Ninja BR201AMZ** es la mejor opcion por su marca reconocida, programa Auto-iQ, mayor capacidad y mejor calificacion. Si se necesita maxima potencia para smoothies con hielo y frutos duros, la Ultrachef U2000 es superior. Ambas opciones estan por debajo de $2,200 MXN.
+
+---
+
+# Freidoras
+
+## Opcion 1: Freidora Industrial a Gas 10L (Tina de Acero + Canastilla)
+
+- **Precio estimado:** ~$2,500 - $3,500 MXN
+- **Proveedor:** MercadoLibre Mexico
+- **Link:** https://www.mercadolibre.com.mx/freidora-industrial-a-gas-10l-tina-de-acero-y-canastilla/up/MLMU3008070236
+- **Calificacion:** 5.0/5 (3 opiniones)
+
+### Caracteristicas tecnicas:
+- Capacidad: 10 litros
+- Alimentacion: Gas
+- Tina de acero inoxidable
+- Canastilla de alambre niquelado con gancho de descanso
+- Estructura reforzada tubular de 1.5 pulgadas, pintada al horno
+- Sistema de ajuste de aire para calibrar flama
+- Medidas base: 79cm alto x 32cm ancho x 42cm largo
+- Medidas tina: 38cm largo x 27cm alto x 27cm ancho
+
+### Ventajas:
+- Uso industrial real (no domestico)
+- Capacidad de 10L para grandes cantidades
+- Funciona con gas (mas economico que electrica)
+- Estructura robusta y reforzada
+- Ideal para frituras rapidas en cafeteria
+
+### Desventajas:
+- Sin garantia declarada
+- Requiere instalacion de gas
+- Marca generica
+
+---
+
+## Opcion 2: Huken x MasterChef Horno Freidora de Aire 12L
+
+- **Precio:** $1,799 MXN
+- **Proveedor:** Amazon Mexico
+- **Link:** https://www.amazon.com.mx/Masterchef-Huk%C3%ABn-Deshidratar-Accesorios-Desmontable/dp/B09PNTT3JN
+- **Calificacion:** 4.6/5 (1,534 opiniones)
+
+### Caracteristicas tecnicas:
+- Capacidad: 12 litros
+- Potencia: 1700W
+- 10 funciones: freir con aire, tostar, hornear, rostizar, deshidratar, mantener caliente, etc.
+- Panel touch digital
+- Temperatura ajustable: 80C a 200C
+- Puerta desmontable para limpieza
+- Acabados en acero inoxidable
+- Ventana de supervision con luz interna
+- Apagado automatico de seguridad
+- Peso: 7.4 kg
+
+### Ventajas:
+- 10 funciones en 1 (reemplaza horno, freidora, deshidratador)
+- No usa aceite (mas saludable)
+- Panel touch facil de usar
+- Excelente calificacion (4.6 estrellas, 1,534 resenas)
+- Incluye accesorios: rejillas, rostizador, canasta giratoria
+- Puerta desmontable para limpieza facil
+
+### Desventajas:
+- No es freidora industrial (uso domestico avanzado)
+- Menor capacidad para frituras masivas
+- Electrica (mayor consumo de luz)
+
+### Recomendacion Freidoras:
+Para una cafeteria que ofrezca snacks fritos ocasionales, la **Huken MasterChef** ($1,799) es la opcion mas versatil por sus 10 funciones. Si se planean frituras industriales de alto volumen, la **freidora industrial a gas** es necesaria.
+
+---
+
+# Estufas
+
+## Opcion 1: Estufa Acros Gas 20 pulgadas NAW1001S (Acero Inoxidable)
+
+- **Precio estimado:** ~$4,190 MXN
+- **Proveedor:** Chedraui
+- **Link:** https://www.chedraui.com.mx/Estufa-de-Piso-Acros-Gas-20-pulgadas-Acero-Inoxidable-NAW1001S-3386065/p
+
+### Caracteristicas tecnicas:
+- Tamano: 20 pulgadas (compacta)
+- Combustible: Gas
+- Material: Acero inoxidable
+- Cubierta porcelanizada en color negro
+- Horno con ventana panoramica
+- Marca Acros (Whirlpool)
+
+### Ventajas:
+- Marca reconocida (Acros/Whirlpool) con garantia nacional
+- Tamano compacto ideal para local pequeno
+- Acabado en acero inoxidable (facil de limpiar)
+- Horno incluido con ventana panoramica
+- Precio accesible
+
+### Desventajas:
+- Solo 20 pulgadas (espacio limitado de parrillas)
+- Uso domestico (no industrial)
+
+---
+
+## Opcion 2: Estufa IEM EI5020BAPS1 20 pulgadas Silver
+
+- **Precio estimado:** ~$4,500 - $5,279 MXN
+- **Proveedor:** Amazon Mexico / Valdez Baluarte
+- **Link:** https://www.amazon.com.mx/Estufa-IEM-EI5020BAPS1-20-Silver/dp/B0DVQDT2QV/
+
+### Caracteristicas tecnicas:
+- Tamano: 20 pulgadas
+- Combustible: Gas
+- Color: Silver
+- Marca IEM
+
+### Ventajas:
+- Marca IEM con presencia en Mexico
+- Tamano compacto de 20 pulgadas
+- Acabado silver moderno
+
+### Desventajas:
+- Precio ligeramente superior a Acros
+- Menos informacion disponible sobre especificaciones detalladas
+
+### Recomendacion Estufas:
+La **Estufa Acros NAW1001S** ($4,190) es la mejor opcion: marca reconocida (Whirlpool), acero inoxidable, horno con ventana, y precio mas bajo. Ambas estufas son de 20 pulgadas, ideal para cafeterias con espacio limitado.
+
+---
+
+# Extraccion (Campana / Extractor)
+
+## Opcion 1: Extractor Domestico Potente
+
+- **Precio estimado:** $1,000 - $3,000 MXN
+- **Proveedor:** Varias tiendas (Home Depot, Amazon, etc.)
+
+### Caracteristicas:
+- Extractor de pared o ventana
+- Potencia para ventilacion basica
+- Instalacion sencilla
+
+### Ventajas:
+- Muy economico
+- Facil de instalar
+- Suficiente para cafeteria pequena con poca coccion
+
+### Desventajas:
+- No cumple con normativa COEPRIS para cocinas comerciales completas
+- Menor capacidad de extraccion
+
+---
+
+## Opcion 2: Campana Extractora
+
+- **Precio estimado:** $3,000 - $8,000 MXN
+- **Proveedor:** Home Depot, Coppel, Liverpool
+
+### Caracteristicas:
+- Campana tipo mural o isla
+- Mayor capacidad de extraccion
+- Filtros de grasa incluidos
+- Iluminacion integrada
+
+### Ventajas:
+- Cumple mejor con normativas sanitarias
+- Mayor capacidad de extraccion de humo y olores
+- Filtros de grasa para limpieza
+- Aspecto mas profesional
+
+### Desventajas:
+- Requiere instalacion profesional
+- Mayor costo
+- Requiere ducto de ventilacion al exterior
+
+### Recomendacion Extraccion:
+Si la cafeteria solo prepara bebidas y snacks ligeros (calentar en freidora de aire), un **extractor domestico** ($2,000) es suficiente. Si se planea cocina mas elaborada con estufa y freidora a gas, se necesita **campana extractora** ($5,000+) para cumplir normativas.
+
+---
+
 # Comparativa de Inversión
 
 ## Escenario Básico (Todo integrado)
