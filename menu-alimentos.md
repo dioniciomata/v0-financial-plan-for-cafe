@@ -54,13 +54,44 @@
 | **Mollete sencillo** | Birote abierto + frijoles + queso manchego gratinado | Birote, frijoles, queso | Salida rápida para desayuno |
 | **Mollete especial** | Igual + chorizo o jamón encima | Birote, frijoles, queso, jamón/chorizo | Aprovechar jamón del lonche |
 
-### 🥟 Empanadas
+### 🌮 Enchiladas
 
 | Platillo | Descripción | Ingredientes Compartidos | Notas Operativas |
 |---|---|---|---|
-| **Empanada de queso** | Tortilla doblada con queso fundido, dorada en comal | Tortilla harina, queso manchego | Rápida y económica |
-| **Empanada de jamón y queso** | Tortilla + jamón + queso | Tortilla, jamón, queso | Mismos ingredientes del lonche |
-| **Empanada de pollo** | Tortilla + pollo guisado + queso | Tortilla, pollo, queso | Aprovechar pollo sobrante |
+| **Enchiladas de papa (3 pzas)** | Tortilla de maíz + papa cocida + salsa roja (chile pasilla + jitomate) + queso + crema + cebolla | Jitomate, queso, crema, cebolla, papa, aceite | Opción vegetariana del menú |
+| **Enchiladas de pollo (3 pzas)** | Tortilla de maíz + pollo guisado + salsa roja + queso + crema + cebolla | Pollo, jitomate, queso, crema, cebolla, aceite | Pollo del mismo stock |
+
+### 🫓 Sopes
+
+| Platillo | Descripción | Ingredientes Compartidos | Notas Operativas |
+|---|---|---|---|
+| **Sopes de frijoles (2 pzas)** | Masa de maíz Maseca + frijoles refritos + queso + crema + cebolla | Frijoles, queso, crema, cebolla, aceite | El más económico |
+| **Sopes de pollo (2 pzas)** | Masa de maíz + frijoles + pollo guisado + queso + crema + cebolla | Pollo, frijoles, queso, crema, cebolla | Pollo del mismo stock |
+| **Sopes de carne (2 pzas)** | Masa de maíz + frijoles + carne molida + queso + crema + cebolla | Carne molida, frijoles, queso, crema, cebolla | Ingredientes ya usados en hamburguesas |
+
+### 🫔 Arepas
+
+| Platillo | Descripción | Ingredientes Compartidos | Notas Operativas |
+|---|---|---|---|
+| **Arepa de queso** | Masa de harina PAN frita/comal + queso Oaxaca fundido | Queso, aceite | Diferenciador del menú — no común en Guadalajara |
+| **Arepa de jamón y queso** | Masa PAN + jamón + queso | Jamón, queso, aceite | Ingredientes del lonche |
+| **Arepa de pollo** | Masa PAN + pollo guisado + queso + crema | Pollo, queso, crema, aceite | Pollo del mismo stock |
+
+### 🥟 Empanadas Venezolanas (Harina PAN)
+
+| Platillo | Descripción | Ingredientes Compartidos | Notas Operativas |
+|---|---|---|---|
+| **Empanada venezolana de queso** | Masa de harina PAN frita + queso Oaxaca fundido | Queso, aceite, harina PAN (misma que arepas) | Misma masa que arepas — optimiza inventario |
+| **Empanada venezolana de jamón y queso** | Masa PAN frita + jamón + queso | Jamón, queso, aceite, harina PAN | Ingredientes del lonche |
+| **Empanada venezolana de pollo** | Masa PAN frita + pollo guisado + queso | Pollo, queso, aceite, harina PAN | Pollo del mismo stock |
+
+### 🥐 Empanadas Hojaldradas
+
+| Platillo | Descripción | Ingredientes Compartidos | Notas Operativas |
+|---|---|---|---|
+| **Empanada hojaldrada de queso** | Masa hojaldre lista + queso Oaxaca + barniz de huevo, horneada | Queso, huevo | Textura diferente — alternativa premium |
+| **Empanada hojaldrada de jamón y queso** | Masa hojaldre + jamón + queso + barniz de huevo | Jamón, queso, huevo | Ingredientes del lonche |
+| **Empanada hojaldrada de pollo** | Masa hojaldre + pollo guisado + queso + barniz de huevo | Pollo, queso, huevo | Pollo del mismo stock |
 
 ### 🥞 Hot Cakes
 
@@ -73,7 +104,7 @@
 
 | Platillo | Descripción | Ingredientes Compartidos | Notas Operativas |
 |---|---|---|---|
-| **Rebanada de pastel** | Pastel de temporada: zanahoria, chocolate o tres leches | Huevo, harina, azúcar, ingredientes del sabor del día | Rotación semanal de sabor. Diferenciador clave. |
+| **Rebanada de pastel** | Pastel de temporada: zanahoria, chocolate o tres leches | Huevo, harina, azúcar, mantequilla, leche | Rotación semanal de sabor. Diferenciador clave. |
 
 ---
 
@@ -85,10 +116,10 @@ Lista de ingredientes base que abastecen múltiples platillos del menú.
 
 | Ingrediente | Descripción | Se usa en... | Notas |
 |---|---|---|---|
-| **Carne molida** | Res molida sazonada | Hamburguesas, lonches, molletes, burritos | Base versátil |
-| **Pollo** | Pechuga / muslo | Nuggets, burritos, sandwiches, lonches | Frío o caliente |
-| **Salchicha / hot dog** | Salchicha de res o mixta | Hot dogs, salchipulpos, molletes | Misma salchicha para ambos |
-| **Jamón** | Jamón de pavo o cerdo | Sandwiches, lonches, molletes, empanadas | Alta rotación |
+| **Carne molida** | Res molida sazonada | Hamburguesas, burritos, sopes de carne | Base versátil |
+| **Pollo** | Pechuga / muslo | Nuggets, burritos, lonches, enchiladas, sopes, arepas, empanadas | Alta rotación — guisar en lote |
+| **Salchicha / hot dog** | Salchicha de res o mixta | Hot dogs, salchipulpos | Misma salchicha para ambos |
+| **Jamón** | Jamón de pavo o cerdo | Lonches, sandwiches, molletes, arepas, empanadas venezolanas y hojaldradas | Alta rotación |
 
 ### 🥖 Bases y Panes
 
@@ -96,34 +127,42 @@ Lista de ingredientes base que abastecen múltiples platillos del menú.
 |---|---|---|---|
 | **Bolillo / birote** | Pan de birote local | Lonches, molletes, hot dogs | Base principal |
 | **Bun de hamburguesa** | Pan suave con ajonjolí | Hamburguesas | Comprar por paquete |
-| **Tortilla de harina** | Tortilla grande 30 cm | Burritos, empanadas | Multifuncional |
+| **Tortilla de harina** | Tortilla grande 30 cm | Burritos | Reducida — empanadas migran a PAN u hojaldre |
+| **Tortilla de maíz** | Bimbo Sanissimo 400g | Enchiladas | Exclusiva para enchiladas |
+| **Harina PAN** | Harina de maíz precocida 1kg | Arepas, empanadas venezolanas | Un solo ingrediente para dos platillos |
+| **Masa Maseca** | Harina nixtamalizada 1kg | Sopes | Preparar masa al momento |
+| **Masa hojaldre** | Member's Mark lista 2kg | Empanadas hojaldradas | Comprar lista — no requiere preparación extra |
 | **Mezcla de hot cakes** | Mezcla en polvo | Hot cakes únicamente | Preparar al momento |
 
 ### 🧀 Lácteos y Gratinados
 
 | Ingrediente | Descripción | Se usa en... | Notas |
 |---|---|---|---|
-| **Queso manchego / Oaxaca** | Queso de hebra o rebanado | Hamburguesas, lonches, burritos, molletes, dedos de queso, empanadas | Ingrediente estrella en casi todo |
-| **Crema** | Crema ácida | Burritos, molletes, lonches, hot cakes | Condimento frecuente |
-| **Mantequilla** | Mantequilla sin sal | Hot cakes, pan tostado, papas | Indispensable |
+| **Queso Oaxaca** | Queso de hebra | Hamburguesas, lonches, burritos, molletes, enchiladas, sopes, arepas, todas las empanadas, dedos de queso | Ingrediente más transversal del menú |
+| **Crema** | Crema ácida | Burritos, molletes, lonches, enchiladas, sopes, arepas de pollo, hot cakes | Condimento frecuente |
+| **Mantequilla** | Mantequilla sin sal | Hot cakes, pastel | Indispensable |
+| **Huevo** | Blanco fresco | Empanados, hot cakes, pastel, barniz empanadas hojaldradas | Múltiple uso |
+| **Leche** | Deslactosada | Hot cakes, pastel | Comprar por caja |
 
 ### 🥬 Vegetales
 
 | Ingrediente | Descripción | Se usa en... | Notas |
 |---|---|---|---|
-| **Jitomate / tomate** | Rebanado | Hamburguesas, lonches, sandwiches, burritos | Siempre en uso |
-| **Lechuga** | Lechuga romana o iceberg | Hamburguesas, lonches, sandwiches, burritos | Alta rotación |
-| **Cebolla** | Blanca y morada | Hamburguesas, hot dogs, burritos, molletes | Cruda o caramelizada |
-| **Chile jalapeño** | En vinagre o fresco | Hot dogs, hamburguesas, burritos, lonches | Opcional para cliente |
-| **Aguacate / guacamole** | Aguacate maduro | Hamburguesas, burritos, lonches, molletes | Preparar fresco a diario |
+| **Jitomate** | Rebanado o para salsa | Hamburguesas, lonches, sandwiches, burritos, salsa roja enchiladas | Doble uso: fresco y cocido |
+| **Lechuga** | Romana o iceberg | Hamburguesas, lonches, sandwiches, burritos | Alta rotación |
+| **Cebolla** | Blanca y morada | Hamburguesas, hot dogs, burritos, enchiladas, sopes | Cruda o caramelizada |
+| **Chile jalapeño** | En vinagre | Hot dogs, hamburguesas, burritos, lonches | Opcional para cliente |
+| **Aguacate** | Maduro | Hamburguesas, burritos, lonches, molletes | Preparar fresco a diario |
+| **Papa** | Blanca alfa | Papas a la francesa, enchiladas de papa | Doble uso |
+| **Chile pasilla** | Seco Tajín | Salsa roja para enchiladas | Exclusivo para enchiladas |
 
 ### 🍅 Salsas y Condimentos
 
 | Ingrediente | Descripción | Se usa en... | Notas |
 |---|---|---|---|
-| **Catsup / mostaza / mayonesa** | Salsas básicas | Hamburguesas, hot dogs, lonches, sandwiches, nuggets | Presentación tipo bote o sachet |
-| **Frijoles** | Frijoles bayos o negros refritos | Molletes, burritos, lonches | Cocinar en lote |
-| **Salsa verde / roja** | Salsa casera | Burritos, lonches, empanadas | Diferenciador de sabor |
+| **Catsup / mostaza / mayonesa** | Salsas básicas | Hamburguesas, hot dogs, lonches, sandwiches, nuggets, papas | Presentación tipo bote o sachet |
+| **Frijoles** | Negros refritos | Molletes, burritos, enchiladas, sopes | Cocinar en lote |
+| **Salsa roja casera** | Chile pasilla + jitomate | Enchiladas | Preparar en lote — rinde varios días |
 
 ---
 
@@ -131,34 +170,41 @@ Lista de ingredientes base que abastecen múltiples platillos del menú.
 
 Referencia rápida para compras y control de inventario. ✓ = ingrediente presente en ese platillo.
 
-| Ingrediente | Lonches | Burger | Hot Dog | Burrito | Papas | Nuggets | Mollete | Empanada | Hot Cakes |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Queso manchego | ✓ | ✓ | ✓ | ✓ | | | ✓ | ✓ | |
-| Jamón | ✓ | | | | | | ✓ | ✓ | |
-| Pollo | ✓ | ✓ | | ✓ | | ✓ | | ✓ | |
-| Carne molida | | ✓ | | ✓ | | | | | |
-| Salchicha | | | ✓ | | | | | | |
-| Frijoles | | | | ✓ | | | ✓ | | |
-| Lechuga / jitomate | ✓ | ✓ | | ✓ | | | | | |
-| Cebolla | | ✓ | ✓ | ✓ | | | | | |
-| Birote | ✓ | | ✓ | | | | ✓ | | |
-| Tortilla harina | | | | ✓ | | | | ✓ | |
-| Aceite / frito | | ✓ | | | ✓ | ✓ | | ✓ | |
-| Mantequilla | | | | | | | | | ✓ |
-| Empanizado | | ✓ | | | | ✓ | | | |
-| Salsas (cat/may) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | | | |
-| Crema | ✓ | | | ✓ | | | ✓ | | |
-| Papa | | | | | ✓ | | | | |
+| Ingrediente | Lonche | Burger | Hot Dog | Burrito | Snacks | Mollete | Enchilada | Sope | Arepa | Emp. Vzla | Emp. Hojal | Hot Cakes |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Queso Oaxaca | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| Pollo | ✓ | ✓ | | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| Jamón | ✓ | | | | | ✓ | | | ✓ | ✓ | ✓ | |
+| Carne molida | | ✓ | | ✓ | | | | ✓ | | | | |
+| Salchicha | | | ✓ | | ✓ | | | | | | | |
+| Frijoles | | | | ✓ | | ✓ | | ✓ | | | | |
+| Crema | ✓ | | | ✓ | | ✓ | ✓ | ✓ | ✓ | | | ✓ |
+| Jitomate | ✓ | ✓ | | ✓ | | | ✓ | | | | | |
+| Lechuga | ✓ | ✓ | | ✓ | | | | | | | | |
+| Cebolla | | ✓ | ✓ | ✓ | | | ✓ | ✓ | | | | |
+| Papa | | | | | ✓ | | ✓ | | | | | |
+| Huevo | ✓ | ✓ | | | ✓ | | | | | | ✓ | ✓ |
+| Aceite | | ✓ | | | ✓ | | ✓ | ✓ | ✓ | ✓ | | |
+| Salsas (cat/may) | ✓ | ✓ | ✓ | ✓ | ✓ | | | | | | | |
+| Birote | ✓ | | ✓ | | | ✓ | | | | | | |
+| Tortilla harina | | | | ✓ | | | | | | | | |
+| Tortilla maíz | | | | | | | ✓ | | | | | |
+| Harina PAN | | | | | | | | | ✓ | ✓ | | |
+| Masa Maseca | | | | | | | | ✓ | | | | |
+| Masa hojaldre | | | | | | | | | | | ✓ | |
+| Mantequilla | | | | | | | | | | | | ✓ |
 
 ---
 
 ## 4. Notas Operativas Clave
 
+- El **pollo guisado** es el ingrediente más versátil: abastece lonches, burritos, enchiladas, sopes, arepas y todas las empanadas — guisar en lote diario.
+- El **queso Oaxaca** aparece en 11 de 12 categorías del menú — controlar las porciones tiene impacto directo en la rentabilidad.
+- La **harina PAN** abastece tanto arepas como empanadas venezolanas — un solo inventario para dos platillos diferenciadores.
 - El **empanizado** es el mismo para nuggets, dedos de queso y hamburguesa de pollo — preparar en lote.
+- La **salsa roja** (chile pasilla + jitomate) se prepara en lote y rinde para varios días de enchiladas.
 - La **salchicha** usada para hot dogs es la misma que se corta en pulpos para los salchipulpos.
-- El **birote** abastece lonches, hot dogs y molletes.
-- La **tortilla de harina** cubre burritos y empanadas, reduciendo tipos de pan en inventario.
-- El **pollo guisado** que sobra se puede usar en burritos y empanadas del siguiente turno.
-- El **pastel** se hornea en casa 1–2 veces por semana según demanda. Rotar sabor semanal genera expectativa.
+- Los **frijoles** se cocinan en lote 2 veces por semana: rinden para molletes, burritos, enchiladas y sopes.
 - Las **papas a la francesa** se venden solas o como acompañamiento en combos (+$15–20 al ticket).
-- Los **frijoles** se cocinan en lote 2 veces por semana: rinden para molletes, burritos y lonches.
+- El **pastel** se hornea 1–2 veces por semana. Rotar sabor semanal genera expectativa.
+- Las **empanadas hojaldradas** no requieren fritura — se hornean, diferenciando textura del resto.
